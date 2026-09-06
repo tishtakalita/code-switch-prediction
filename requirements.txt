@@ -1,0 +1,6 @@
+datasets
+torch
+pypinyin
+torchaudio
+ipython
+tqdm
