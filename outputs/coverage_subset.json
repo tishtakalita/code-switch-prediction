@@ -1,0 +1,98 @@
+[
+  {
+    "split": "train",
+    "index": 1040
+  },
+  {
+    "split": "train",
+    "index": 188
+  },
+  {
+    "split": "train",
+    "index": 499
+  },
+  {
+    "split": "train",
+    "index": 785
+  },
+  {
+    "split": "train",
+    "index": 107
+  },
+  {
+    "split": "train",
+    "index": 293
+  },
+  {
+    "split": "train",
+    "index": 1152
+  },
+  {
+    "split": "train",
+    "index": 3529
+  },
+  {
+    "split": "train",
+    "index": 5451
+  },
+  {
+    "split": "train",
+    "index": 5728
+  },
+  {
+    "split": "train",
+    "index": 7522
+  },
+  {
+    "split": "test",
+    "index": 402
+  },
+  {
+    "split": "train",
+    "index": 668
+  },
+  {
+    "split": "train",
+    "index": 1155
+  },
+  {
+    "split": "train",
+    "index": 1313
+  },
+  {
+    "split": "train",
+    "index": 1331
+  },
+  {
+    "split": "train",
+    "index": 1592
+  },
+  {
+    "split": "train",
+    "index": 2120
+  },
+  {
+    "split": "train",
+    "index": 2636
+  },
+  {
+    "split": "train",
+    "index": 5064
+  },
+  {
+    "split": "test",
+    "index": 4
+  },
+  {
+    "split": "validation",
+    "index": 1
+  },
+  {
+    "split": "validation",
+    "index": 119
+  },
+  {
+    "split": "validation",
+    "index": 366
+  }
+]
