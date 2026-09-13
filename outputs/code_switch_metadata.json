@@ -283,7 +283,7 @@
       "index": 41,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 5.3799375,
+      "duration": 5.38,
       "num_switches": 1,
       "switches": [
         {
@@ -806,7 +806,7 @@
       "index": 125,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 6.2900625,
+      "duration": 6.29,
       "num_switches": 2,
       "switches": [
         {
@@ -850,7 +850,7 @@
       "index": 130,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 5.0599375,
+      "duration": 5.06,
       "num_switches": 1,
       "switches": [
         {
@@ -880,7 +880,7 @@
       "index": 136,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 7.09025,
+      "duration": 7.09,
       "num_switches": 2,
       "switches": [
         {
@@ -1003,7 +1003,7 @@
       "index": 147,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 1.5399375,
+      "duration": 1.54,
       "num_switches": 1,
       "switches": [
         {
@@ -1711,7 +1711,7 @@
       "index": 283,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 3.4599375,
+      "duration": 3.46,
       "num_switches": 3,
       "switches": [
         {
@@ -1998,7 +1998,7 @@
       "index": 304,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.6000625,
+      "duration": 4.6,
       "num_switches": 1,
       "switches": [
         {
@@ -2175,7 +2175,7 @@
       "index": 345,
       "speaker_id": 21,
       "session_id": 2,
-      "duration": 2.2101875,
+      "duration": 2.21,
       "num_switches": 2,
       "switches": [
         {
@@ -2253,7 +2253,7 @@
       "index": 362,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 3.2799375,
+      "duration": 3.28,
       "num_switches": 2,
       "switches": [
         {
@@ -2428,7 +2428,7 @@
       "index": 403,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 2.1599375,
+      "duration": 2.16,
       "num_switches": 1,
       "switches": [
         {
@@ -2551,7 +2551,7 @@
       "index": 434,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 2.5599375,
+      "duration": 2.56,
       "num_switches": 2,
       "switches": [
         {
@@ -2622,7 +2622,7 @@
       "index": 438,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 1.5199375,
+      "duration": 1.52,
       "num_switches": 1,
       "switches": [
         {
@@ -2637,7 +2637,7 @@
       "index": 443,
       "speaker_id": 21,
       "session_id": 2,
-      "duration": 2.3301875,
+      "duration": 2.33,
       "num_switches": 2,
       "switches": [
         {
@@ -2745,7 +2745,7 @@
       "index": 464,
       "speaker_id": 21,
       "session_id": 2,
-      "duration": 4.2701875,
+      "duration": 4.27,
       "num_switches": 2,
       "switches": [
         {
@@ -2767,7 +2767,7 @@
       "index": 466,
       "speaker_id": 21,
       "session_id": 2,
-      "duration": 4.31025,
+      "duration": 4.31,
       "num_switches": 2,
       "switches": [
         {
@@ -2811,7 +2811,7 @@
       "index": 475,
       "speaker_id": 21,
       "session_id": 2,
-      "duration": 2.6901875,
+      "duration": 2.69,
       "num_switches": 1,
       "switches": [
         {
@@ -3316,7 +3316,7 @@
       "index": 563,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 4.2599375,
+      "duration": 4.26,
       "num_switches": 3,
       "switches": [
         {
@@ -3366,7 +3366,7 @@
       "index": 573,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 3.8000625,
+      "duration": 3.8,
       "num_switches": 4,
       "switches": [
         {
@@ -4194,7 +4194,7 @@
       "index": 660,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 3.6599375,
+      "duration": 3.66,
       "num_switches": 1,
       "switches": [
         {
@@ -4592,7 +4592,7 @@
       "index": 693,
       "speaker_id": 26,
       "session_id": 3,
-      "duration": 4.5501875,
+      "duration": 4.55,
       "num_switches": 4,
       "switches": [
         {
@@ -4807,7 +4807,7 @@
       "index": 723,
       "speaker_id": 26,
       "session_id": 3,
-      "duration": 3.7501875,
+      "duration": 3.75,
       "num_switches": 2,
       "switches": [
         {
@@ -4903,7 +4903,7 @@
       "index": 748,
       "speaker_id": 26,
       "session_id": 3,
-      "duration": 3.45025,
+      "duration": 3.45,
       "num_switches": 2,
       "switches": [
         {
@@ -5088,7 +5088,7 @@
       "index": 785,
       "speaker_id": 19,
       "session_id": 4,
-      "duration": 5.2501875,
+      "duration": 5.25,
       "num_switches": 3,
       "switches": [
         {
@@ -5455,7 +5455,7 @@
       "index": 846,
       "speaker_id": 19,
       "session_id": 4,
-      "duration": 5.3321875,
+      "duration": 5.332,
       "num_switches": 2,
       "switches": [
         {
@@ -5600,7 +5600,7 @@
       "index": 864,
       "speaker_id": 19,
       "session_id": 4,
-      "duration": 3.2501875,
+      "duration": 3.25,
       "num_switches": 2,
       "switches": [
         {
@@ -5769,7 +5769,7 @@
       "index": 921,
       "speaker_id": 19,
       "session_id": 4,
-      "duration": 2.7701875,
+      "duration": 2.77,
       "num_switches": 2,
       "switches": [
         {
@@ -5865,7 +5865,7 @@
       "index": 932,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 2.1699375,
+      "duration": 2.17,
       "num_switches": 1,
       "switches": [
         {
@@ -6565,7 +6565,7 @@
       "index": 1023,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 3.9599375,
+      "duration": 3.96,
       "num_switches": 2,
       "switches": [
         {
@@ -6775,7 +6775,7 @@
       "index": 1064,
       "speaker_id": 11,
       "session_id": 1,
-      "duration": 5.7101875,
+      "duration": 5.71,
       "num_switches": 4,
       "switches": [
         {
@@ -6809,7 +6809,7 @@
       "index": 1065,
       "speaker_id": 11,
       "session_id": 1,
-      "duration": 10.2101875,
+      "duration": 10.21,
       "num_switches": 8,
       "switches": [
         {
@@ -6867,7 +6867,7 @@
       "index": 1066,
       "speaker_id": 11,
       "session_id": 1,
-      "duration": 6.75025,
+      "duration": 6.75,
       "num_switches": 3,
       "switches": [
         {
@@ -7177,13 +7177,13 @@
       "index": 1126,
       "speaker_id": 11,
       "session_id": 1,
-      "duration": 4.25025,
+      "duration": 4.25,
       "num_switches": 2,
       "switches": [
         {
           "timestamp": 2.446,
           "direction": "zh->en",
-          "relative_position": 0.575
+          "relative_position": 0.576
         },
         {
           "timestamp": 2.927,
@@ -7199,7 +7199,7 @@
       "index": 1135,
       "speaker_id": 11,
       "session_id": 1,
-      "duration": 10.0701875,
+      "duration": 10.07,
       "num_switches": 6,
       "switches": [
         {
@@ -7379,7 +7379,7 @@
       "index": 1159,
       "speaker_id": 13,
       "session_id": 1,
-      "duration": 1.7399375,
+      "duration": 1.74,
       "num_switches": 1,
       "switches": [
         {
@@ -7643,7 +7643,7 @@
       "index": 1234,
       "speaker_id": 14,
       "session_id": 1,
-      "duration": 1.77025,
+      "duration": 1.77,
       "num_switches": 3,
       "switches": [
         {
@@ -7659,7 +7659,7 @@
         {
           "timestamp": 1.086,
           "direction": "en->zh",
-          "relative_position": 0.613
+          "relative_position": 0.614
         }
       ],
       "inter_switch_intervals": [
@@ -7731,7 +7731,7 @@
       "index": 1260,
       "speaker_id": 14,
       "session_id": 1,
-      "duration": 4.69025,
+      "duration": 4.69,
       "num_switches": 1,
       "switches": [
         {
@@ -7746,7 +7746,7 @@
       "index": 1262,
       "speaker_id": 14,
       "session_id": 1,
-      "duration": 1.91025,
+      "duration": 1.91,
       "num_switches": 1,
       "switches": [
         {
@@ -7903,7 +7903,7 @@
       "index": 1322,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 6.55025,
+      "duration": 6.55,
       "num_switches": 1,
       "switches": [
         {
@@ -8021,7 +8021,7 @@
       "index": 1365,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 2.4901875,
+      "duration": 2.49,
       "num_switches": 1,
       "switches": [
         {
@@ -8066,7 +8066,7 @@
       "index": 1382,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 10.15025,
+      "duration": 10.15,
       "num_switches": 2,
       "switches": [
         {
@@ -8178,7 +8178,7 @@
       "index": 1405,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 3.9800625,
+      "duration": 3.98,
       "num_switches": 2,
       "switches": [
         {
@@ -8379,7 +8379,7 @@
       "index": 1428,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 3.1200625,
+      "duration": 3.12,
       "num_switches": 2,
       "switches": [
         {
@@ -8599,7 +8599,7 @@
       "index": 1455,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 8.3899375,
+      "duration": 8.39,
       "num_switches": 2,
       "switches": [
         {
@@ -8621,7 +8621,7 @@
       "index": 1466,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 2.35025,
+      "duration": 2.35,
       "num_switches": 1,
       "switches": [
         {
@@ -8740,7 +8740,7 @@
       "index": 1480,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 5.1399375,
+      "duration": 5.14,
       "num_switches": 2,
       "switches": [
         {
@@ -9111,7 +9111,7 @@
       "index": 1523,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 3.2699375,
+      "duration": 3.27,
       "num_switches": 1,
       "switches": [
         {
@@ -9148,7 +9148,7 @@
       "index": 1528,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 6.3101875,
+      "duration": 6.31,
       "num_switches": 2,
       "switches": [
         {
@@ -9244,7 +9244,7 @@
       "index": 1543,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 4.6699375,
+      "duration": 4.67,
       "num_switches": 4,
       "switches": [
         {
@@ -9330,7 +9330,7 @@
       "index": 1553,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 6.17025,
+      "duration": 6.17,
       "num_switches": 2,
       "switches": [
         {
@@ -9352,7 +9352,7 @@
       "index": 1555,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 6.2301875,
+      "duration": 6.23,
       "num_switches": 1,
       "switches": [
         {
@@ -9382,7 +9382,7 @@
       "index": 1560,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 4.5101875,
+      "duration": 4.51,
       "num_switches": 2,
       "switches": [
         {
@@ -9404,7 +9404,7 @@
       "index": 1564,
       "speaker_id": 15,
       "session_id": 1,
-      "duration": 4.3301875,
+      "duration": 4.33,
       "num_switches": 2,
       "switches": [
         {
@@ -9426,7 +9426,7 @@
       "index": 1569,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 3.3999375,
+      "duration": 3.4,
       "num_switches": 2,
       "switches": [
         {
@@ -9463,7 +9463,7 @@
       "index": 1581,
       "speaker_id": 16,
       "session_id": 1,
-      "duration": 1.1799375,
+      "duration": 1.18,
       "num_switches": 1,
       "switches": [
         {
@@ -9552,7 +9552,7 @@
       "index": 1608,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 1.83025,
+      "duration": 1.83,
       "num_switches": 1,
       "switches": [
         {
@@ -9612,7 +9612,7 @@
       "index": 1631,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 2.0901875,
+      "duration": 2.09,
       "num_switches": 1,
       "switches": [
         {
@@ -9627,7 +9627,7 @@
       "index": 1654,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 2.8701875,
+      "duration": 2.87,
       "num_switches": 1,
       "switches": [
         {
@@ -9679,7 +9679,7 @@
       "index": 1664,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 2.7101875,
+      "duration": 2.71,
       "num_switches": 1,
       "switches": [
         {
@@ -9728,7 +9728,7 @@
       "index": 1669,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 1.5901875,
+      "duration": 1.59,
       "num_switches": 1,
       "switches": [
         {
@@ -9839,7 +9839,7 @@
       "index": 1723,
       "speaker_id": 18,
       "session_id": 1,
-      "duration": 6.2101875,
+      "duration": 6.21,
       "num_switches": 3,
       "switches": [
         {
@@ -9927,7 +9927,7 @@
       "index": 1782,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 0.5301875,
+      "duration": 0.53,
       "num_switches": 1,
       "switches": [
         {
@@ -9942,7 +9942,7 @@
       "index": 1791,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 2.4301875,
+      "duration": 2.43,
       "num_switches": 1,
       "switches": [
         {
@@ -9994,7 +9994,7 @@
       "index": 1797,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 5.1101875,
+      "duration": 5.11,
       "num_switches": 3,
       "switches": [
         {
@@ -10144,7 +10144,7 @@
       "index": 1809,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 4.3701875,
+      "duration": 4.37,
       "num_switches": 1,
       "switches": [
         {
@@ -10217,7 +10217,7 @@
       "index": 1822,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 5.3721875,
+      "duration": 5.372,
       "num_switches": 2,
       "switches": [
         {
@@ -10239,7 +10239,7 @@
       "index": 1823,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 8.3551875,
+      "duration": 8.355,
       "num_switches": 1,
       "switches": [
         {
@@ -10269,7 +10269,7 @@
       "index": 1836,
       "speaker_id": 19,
       "session_id": 1,
-      "duration": 2.41025,
+      "duration": 2.41,
       "num_switches": 1,
       "switches": [
         {
@@ -10385,7 +10385,7 @@
       "index": 1846,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 5.7599375,
+      "duration": 5.76,
       "num_switches": 5,
       "switches": [
         {
@@ -10687,7 +10687,7 @@
       "index": 1890,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 2.4799375,
+      "duration": 2.48,
       "num_switches": 1,
       "switches": [
         {
@@ -10784,7 +10784,7 @@
       "index": 1917,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 7.2501875,
+      "duration": 7.25,
       "num_switches": 2,
       "switches": [
         {
@@ -10858,7 +10858,7 @@
       "index": 1931,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 6.8101875,
+      "duration": 6.81,
       "num_switches": 5,
       "switches": [
         {
@@ -10920,7 +10920,7 @@
       "index": 1935,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 4.4301875,
+      "duration": 4.43,
       "num_switches": 2,
       "switches": [
         {
@@ -10957,7 +10957,7 @@
       "index": 1943,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 3.15025,
+      "duration": 3.15,
       "num_switches": 1,
       "switches": [
         {
@@ -11070,7 +11070,7 @@
       "index": 1966,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 6.5701875,
+      "duration": 6.57,
       "num_switches": 2,
       "switches": [
         {
@@ -11129,7 +11129,7 @@
       "index": 1972,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 2.7900625,
+      "duration": 2.79,
       "num_switches": 1,
       "switches": [
         {
@@ -11215,7 +11215,7 @@
       "index": 1979,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 4.3501875,
+      "duration": 4.35,
       "num_switches": 4,
       "switches": [
         {
@@ -11337,7 +11337,7 @@
       "index": 1995,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 6.8400625,
+      "duration": 6.84,
       "num_switches": 1,
       "switches": [
         {
@@ -11352,7 +11352,7 @@
       "index": 2012,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 2.0101875,
+      "duration": 2.01,
       "num_switches": 1,
       "switches": [
         {
@@ -11382,7 +11382,7 @@
       "index": 2014,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 1.4901875,
+      "duration": 1.49,
       "num_switches": 2,
       "switches": [
         {
@@ -11434,7 +11434,7 @@
       "index": 2020,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 2.1599375,
+      "duration": 2.16,
       "num_switches": 2,
       "switches": [
         {
@@ -11500,7 +11500,7 @@
       "index": 2050,
       "speaker_id": 1,
       "session_id": 1,
-      "duration": 4.8999375,
+      "duration": 4.9,
       "num_switches": 2,
       "switches": [
         {
@@ -11522,7 +11522,7 @@
       "index": 2059,
       "speaker_id": 21,
       "session_id": 1,
-      "duration": 2.2701875,
+      "duration": 2.27,
       "num_switches": 2,
       "switches": [
         {
@@ -11744,7 +11744,7 @@
       "index": 2109,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 3.3399375,
+      "duration": 3.34,
       "num_switches": 1,
       "switches": [
         {
@@ -11927,7 +11927,7 @@
       "index": 2143,
       "speaker_id": 24,
       "session_id": 1,
-      "duration": 5.7101875,
+      "duration": 5.71,
       "num_switches": 2,
       "switches": [
         {
@@ -12045,7 +12045,7 @@
       "index": 2161,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 1.5629375,
+      "duration": 1.563,
       "num_switches": 1,
       "switches": [
         {
@@ -12110,7 +12110,7 @@
       "index": 2173,
       "speaker_id": 2,
       "session_id": 1,
-      "duration": 2.9000625,
+      "duration": 2.9,
       "num_switches": 1,
       "switches": [
         {
@@ -12162,7 +12162,7 @@
       "index": 2187,
       "speaker_id": 24,
       "session_id": 1,
-      "duration": 5.9901875,
+      "duration": 5.99,
       "num_switches": 1,
       "switches": [
         {
@@ -12422,7 +12422,7 @@
       "index": 2302,
       "speaker_id": 24,
       "session_id": 1,
-      "duration": 1.8901875,
+      "duration": 1.89,
       "num_switches": 1,
       "switches": [
         {
@@ -12784,7 +12784,7 @@
       "index": 2410,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 3.8199375,
+      "duration": 3.82,
       "num_switches": 2,
       "switches": [
         {
@@ -12806,7 +12806,7 @@
       "index": 2412,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 3.7399375,
+      "duration": 3.74,
       "num_switches": 3,
       "switches": [
         {
@@ -12884,7 +12884,7 @@
       "index": 2422,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 4.8700625,
+      "duration": 4.87,
       "num_switches": 5,
       "switches": [
         {
@@ -13128,7 +13128,7 @@
       "index": 2458,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 3.6999375,
+      "duration": 3.7,
       "num_switches": 2,
       "switches": [
         {
@@ -13633,7 +13633,7 @@
       "index": 2508,
       "speaker_id": 26,
       "session_id": 1,
-      "duration": 5.6701875,
+      "duration": 5.67,
       "num_switches": 3,
       "switches": [
         {
@@ -13691,7 +13691,7 @@
       "index": 2517,
       "speaker_id": 26,
       "session_id": 1,
-      "duration": 6.2701875,
+      "duration": 6.27,
       "num_switches": 2,
       "switches": [
         {
@@ -13735,7 +13735,7 @@
       "index": 2520,
       "speaker_id": 26,
       "session_id": 1,
-      "duration": 3.2101875,
+      "duration": 3.21,
       "num_switches": 3,
       "switches": [
         {
@@ -13908,7 +13908,7 @@
       "index": 2546,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 6.6000625,
+      "duration": 6.6,
       "num_switches": 2,
       "switches": [
         {
@@ -14004,7 +14004,7 @@
       "index": 2571,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 2.0599375,
+      "duration": 2.06,
       "num_switches": 2,
       "switches": [
         {
@@ -14116,7 +14116,7 @@
       "index": 2590,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 5.5800625,
+      "duration": 5.58,
       "num_switches": 2,
       "switches": [
         {
@@ -14160,7 +14160,7 @@
       "index": 2603,
       "speaker_id": 9,
       "session_id": 1,
-      "duration": 5.3400625,
+      "duration": 5.34,
       "num_switches": 2,
       "switches": [
         {
@@ -14384,7 +14384,7 @@
       "index": 2644,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 6.7101875,
+      "duration": 6.71,
       "num_switches": 6,
       "switches": [
         {
@@ -14512,7 +14512,7 @@
       "index": 2672,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 1.9701875,
+      "duration": 1.97,
       "num_switches": 1,
       "switches": [
         {
@@ -14557,7 +14557,7 @@
       "index": 2690,
       "speaker_id": 6,
       "session_id": 1,
-      "duration": 1.6399375,
+      "duration": 1.64,
       "num_switches": 1,
       "switches": [
         {
@@ -14681,13 +14681,13 @@
       "index": 2700,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 2.9501875,
+      "duration": 2.95,
       "num_switches": 3,
       "switches": [
         {
           "timestamp": 0.562,
           "direction": "en->zh",
-          "relative_position": 0.19
+          "relative_position": 0.191
         },
         {
           "timestamp": 0.743,
@@ -14724,7 +14724,7 @@
       "index": 2702,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 2.3901875,
+      "duration": 2.39,
       "num_switches": 1,
       "switches": [
         {
@@ -14754,7 +14754,7 @@
       "index": 2705,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 3.6701875,
+      "duration": 3.67,
       "num_switches": 5,
       "switches": [
         {
@@ -14843,7 +14843,7 @@
       "index": 2713,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 4.3501875,
+      "duration": 4.35,
       "num_switches": 1,
       "switches": [
         {
@@ -14908,7 +14908,7 @@
       "index": 2736,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 1.5901875,
+      "duration": 1.59,
       "num_switches": 1,
       "switches": [
         {
@@ -14923,7 +14923,7 @@
       "index": 2740,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 2.4301875,
+      "duration": 2.43,
       "num_switches": 1,
       "switches": [
         {
@@ -14968,7 +14968,7 @@
       "index": 2761,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 2.9901875,
+      "duration": 2.99,
       "num_switches": 1,
       "switches": [
         {
@@ -15065,7 +15065,7 @@
       "index": 2785,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 1.2301875,
+      "duration": 1.23,
       "num_switches": 1,
       "switches": [
         {
@@ -15095,7 +15095,7 @@
       "index": 2787,
       "speaker_id": 5,
       "session_id": 1,
-      "duration": 5.8501875,
+      "duration": 5.85,
       "num_switches": 2,
       "switches": [
         {
@@ -15106,7 +15106,7 @@
         {
           "timestamp": 4.408,
           "direction": "en->zh",
-          "relative_position": 0.753
+          "relative_position": 0.754
         }
       ],
       "inter_switch_intervals": [
@@ -15204,7 +15204,7 @@
       "index": 2823,
       "speaker_id": 8,
       "session_id": 1,
-      "duration": 4.69025,
+      "duration": 4.69,
       "num_switches": 1,
       "switches": [
         {
@@ -15380,7 +15380,7 @@
       "index": 2870,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 2.2901875,
+      "duration": 2.29,
       "num_switches": 1,
       "switches": [
         {
@@ -15705,7 +15705,7 @@
       "index": 2927,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 2.6101875,
+      "duration": 2.61,
       "num_switches": 2,
       "switches": [
         {
@@ -15934,7 +15934,7 @@
       "index": 2966,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 3.7799375,
+      "duration": 3.78,
       "num_switches": 3,
       "switches": [
         {
@@ -15962,7 +15962,7 @@
       "index": 2967,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 4.1000625,
+      "duration": 4.1,
       "num_switches": 1,
       "switches": [
         {
@@ -16260,7 +16260,7 @@
       "index": 3006,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 4.1600625,
+      "duration": 4.16,
       "num_switches": 3,
       "switches": [
         {
@@ -16420,7 +16420,7 @@
       "index": 3050,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.0501875,
+      "duration": 4.05,
       "num_switches": 3,
       "switches": [
         {
@@ -16448,7 +16448,7 @@
       "index": 3056,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 5.0501875,
+      "duration": 5.05,
       "num_switches": 2,
       "switches": [
         {
@@ -16485,7 +16485,7 @@
       "index": 3066,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 6.81025,
+      "duration": 6.81,
       "num_switches": 1,
       "switches": [
         {
@@ -16500,7 +16500,7 @@
       "index": 3067,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 3.6101875,
+      "duration": 3.61,
       "num_switches": 1,
       "switches": [
         {
@@ -16515,7 +16515,7 @@
       "index": 3069,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 7.3501875,
+      "duration": 7.35,
       "num_switches": 4,
       "switches": [
         {
@@ -16807,7 +16807,7 @@
       "index": 3102,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.8901875,
+      "duration": 4.89,
       "num_switches": 1,
       "switches": [
         {
@@ -16822,7 +16822,7 @@
       "index": 3103,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 5.25025,
+      "duration": 5.25,
       "num_switches": 3,
       "switches": [
         {
@@ -16872,7 +16872,7 @@
       "index": 3106,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.15025,
+      "duration": 4.15,
       "num_switches": 1,
       "switches": [
         {
@@ -16915,7 +16915,7 @@
       "index": 3110,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.1901875,
+      "duration": 4.19,
       "num_switches": 2,
       "switches": [
         {
@@ -17020,7 +17020,7 @@
       "index": 3123,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 2.8900625,
+      "duration": 2.89,
       "num_switches": 1,
       "switches": [
         {
@@ -17057,7 +17057,7 @@
       "index": 3132,
       "speaker_id": 1,
       "session_id": 2,
-      "duration": 4.3501875,
+      "duration": 4.35,
       "num_switches": 2,
       "switches": [
         {
@@ -17123,7 +17123,7 @@
       "index": 3137,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 3.2501875,
+      "duration": 3.25,
       "num_switches": 2,
       "switches": [
         {
@@ -17145,7 +17145,7 @@
       "index": 3140,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 4.0101875,
+      "duration": 4.01,
       "num_switches": 2,
       "switches": [
         {
@@ -17260,7 +17260,7 @@
       "index": 3149,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 5.8699375,
+      "duration": 5.87,
       "num_switches": 1,
       "switches": [
         {
@@ -17327,7 +17327,7 @@
       "index": 3164,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.0501875,
+      "duration": 2.05,
       "num_switches": 2,
       "switches": [
         {
@@ -17379,7 +17379,7 @@
       "index": 3172,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 3.44225,
+      "duration": 3.442,
       "num_switches": 1,
       "switches": [
         {
@@ -17416,7 +17416,7 @@
       "index": 3177,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 3.8131875,
+      "duration": 3.813,
       "num_switches": 2,
       "switches": [
         {
@@ -17427,7 +17427,7 @@
         {
           "timestamp": 2.469,
           "direction": "en->zh",
-          "relative_position": 0.647
+          "relative_position": 0.648
         }
       ],
       "inter_switch_intervals": [
@@ -17657,7 +17657,7 @@
       "index": 3215,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 3.4101875,
+      "duration": 3.41,
       "num_switches": 4,
       "switches": [
         {
@@ -17791,7 +17791,7 @@
       "index": 3223,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 1.5901875,
+      "duration": 1.59,
       "num_switches": 1,
       "switches": [
         {
@@ -17873,7 +17873,7 @@
       "index": 3239,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.07025,
+      "duration": 2.07,
       "num_switches": 1,
       "switches": [
         {
@@ -17925,7 +17925,7 @@
       "index": 3243,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 4.9901875,
+      "duration": 4.99,
       "num_switches": 4,
       "switches": [
         {
@@ -17974,7 +17974,7 @@
       "index": 3247,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 1.63025,
+      "duration": 1.63,
       "num_switches": 2,
       "switches": [
         {
@@ -18068,7 +18068,7 @@
       "index": 3254,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 5.6000625,
+      "duration": 5.6,
       "num_switches": 4,
       "switches": [
         {
@@ -18102,7 +18102,7 @@
       "index": 3259,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 4.7400625,
+      "duration": 4.74,
       "num_switches": 1,
       "switches": [
         {
@@ -18132,7 +18132,7 @@
       "index": 3262,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 2.9800625,
+      "duration": 2.98,
       "num_switches": 1,
       "switches": [
         {
@@ -18406,7 +18406,7 @@
       "index": 3284,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 2.7200625,
+      "duration": 2.72,
       "num_switches": 1,
       "switches": [
         {
@@ -18421,7 +18421,7 @@
       "index": 3289,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 6.8299375,
+      "duration": 6.83,
       "num_switches": 4,
       "switches": [
         {
@@ -18572,7 +18572,7 @@
       "index": 3297,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 7.2799375,
+      "duration": 7.28,
       "num_switches": 6,
       "switches": [
         {
@@ -18648,7 +18648,7 @@
       "index": 3308,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.9901875,
+      "duration": 2.99,
       "num_switches": 3,
       "switches": [
         {
@@ -18750,7 +18750,7 @@
       "index": 3331,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 6.3501875,
+      "duration": 6.35,
       "num_switches": 2,
       "switches": [
         {
@@ -18837,7 +18837,7 @@
       "index": 3342,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 3.2799375,
+      "duration": 3.28,
       "num_switches": 2,
       "switches": [
         {
@@ -18918,7 +18918,7 @@
       "index": 3354,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 4.2701875,
+      "duration": 4.27,
       "num_switches": 1,
       "switches": [
         {
@@ -19075,7 +19075,7 @@
       "index": 3368,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 1.0501875,
+      "duration": 1.05,
       "num_switches": 1,
       "switches": [
         {
@@ -19112,7 +19112,7 @@
       "index": 3375,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 1.6501875,
+      "duration": 1.65,
       "num_switches": 1,
       "switches": [
         {
@@ -19127,7 +19127,7 @@
       "index": 3376,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.6901875,
+      "duration": 2.69,
       "num_switches": 2,
       "switches": [
         {
@@ -19217,7 +19217,7 @@
       "index": 3385,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 5.3600625,
+      "duration": 5.36,
       "num_switches": 1,
       "switches": [
         {
@@ -19414,7 +19414,7 @@
       "index": 3412,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.61025,
+      "duration": 2.61,
       "num_switches": 2,
       "switches": [
         {
@@ -19826,7 +19826,7 @@
       "index": 3446,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 1.9701875,
+      "duration": 1.97,
       "num_switches": 1,
       "switches": [
         {
@@ -19869,7 +19869,7 @@
       "index": 3448,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 6.9901875,
+      "duration": 6.99,
       "num_switches": 6,
       "switches": [
         {
@@ -19996,7 +19996,7 @@
       "index": 3457,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 2.8701875,
+      "duration": 2.87,
       "num_switches": 2,
       "switches": [
         {
@@ -20146,7 +20146,7 @@
       "index": 3469,
       "speaker_id": 10,
       "session_id": 2,
-      "duration": 7.6501875,
+      "duration": 7.65,
       "num_switches": 8,
       "switches": [
         {
@@ -20398,7 +20398,7 @@
       "index": 3500,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 2.8101875,
+      "duration": 2.81,
       "num_switches": 2,
       "switches": [
         {
@@ -20448,7 +20448,7 @@
       "index": 3502,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 3.3701875,
+      "duration": 3.37,
       "num_switches": 3,
       "switches": [
         {
@@ -20476,7 +20476,7 @@
       "index": 3504,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 4.8501875,
+      "duration": 4.85,
       "num_switches": 4,
       "switches": [
         {
@@ -20510,7 +20510,7 @@
       "index": 3505,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 7.330125,
+      "duration": 7.33,
       "num_switches": 5,
       "switches": [
         {
@@ -20565,7 +20565,7 @@
       "index": 3511,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 4.5901875,
+      "duration": 4.59,
       "num_switches": 3,
       "switches": [
         {
@@ -20633,13 +20633,13 @@
       "index": 3516,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 4.7701875,
+      "duration": 4.77,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 4.429,
           "direction": "zh->en",
-          "relative_position": 0.928
+          "relative_position": 0.929
         }
       ],
       "inter_switch_intervals": []
@@ -20682,7 +20682,7 @@
       "index": 3521,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 4.3501875,
+      "duration": 4.35,
       "num_switches": 3,
       "switches": [
         {
@@ -20833,7 +20833,7 @@
       "index": 3529,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 14.6501875,
+      "duration": 14.65,
       "num_switches": 14,
       "switches": [
         {
@@ -20927,7 +20927,7 @@
       "index": 3530,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 11.4101875,
+      "duration": 11.41,
       "num_switches": 7,
       "switches": [
         {
@@ -21258,7 +21258,7 @@
       "index": 3547,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 5.4901875,
+      "duration": 5.49,
       "num_switches": 2,
       "switches": [
         {
@@ -21280,7 +21280,7 @@
       "index": 3553,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 2.2101875,
+      "duration": 2.21,
       "num_switches": 2,
       "switches": [
         {
@@ -21302,7 +21302,7 @@
       "index": 3555,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 6.8301875,
+      "duration": 6.83,
       "num_switches": 2,
       "switches": [
         {
@@ -21673,7 +21673,7 @@
       "index": 3575,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 11.4101875,
+      "duration": 11.41,
       "num_switches": 4,
       "switches": [
         {
@@ -21707,7 +21707,7 @@
       "index": 3579,
       "speaker_id": 11,
       "session_id": 2,
-      "duration": 10.4101875,
+      "duration": 10.41,
       "num_switches": 4,
       "switches": [
         {
@@ -21858,7 +21858,7 @@
       "index": 3610,
       "speaker_id": 13,
       "session_id": 2,
-      "duration": 5.0999375,
+      "duration": 5.1,
       "num_switches": 1,
       "switches": [
         {
@@ -21925,7 +21925,7 @@
       "index": 3625,
       "speaker_id": 13,
       "session_id": 2,
-      "duration": 6.1399375,
+      "duration": 6.14,
       "num_switches": 3,
       "switches": [
         {
@@ -22673,7 +22673,7 @@
       "index": 3810,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 2.7701875,
+      "duration": 2.77,
       "num_switches": 1,
       "switches": [
         {
@@ -22990,7 +22990,7 @@
       "index": 3896,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 0.8999375,
+      "duration": 0.9,
       "num_switches": 1,
       "switches": [
         {
@@ -23005,7 +23005,7 @@
       "index": 3922,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 5.0299375,
+      "duration": 5.03,
       "num_switches": 2,
       "switches": [
         {
@@ -23042,7 +23042,7 @@
       "index": 3936,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 3.5199375,
+      "duration": 3.52,
       "num_switches": 2,
       "switches": [
         {
@@ -23159,7 +23159,7 @@
       "index": 3960,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 7.73025,
+      "duration": 7.73,
       "num_switches": 2,
       "switches": [
         {
@@ -23263,7 +23263,7 @@
       "index": 3987,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 2.8999375,
+      "duration": 2.9,
       "num_switches": 1,
       "switches": [
         {
@@ -23278,7 +23278,7 @@
       "index": 3988,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 2.4299375,
+      "duration": 2.43,
       "num_switches": 1,
       "switches": [
         {
@@ -23367,7 +23367,7 @@
       "index": 4006,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 5.7501875,
+      "duration": 5.75,
       "num_switches": 1,
       "switches": [
         {
@@ -23382,7 +23382,7 @@
       "index": 4008,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 6.3701875,
+      "duration": 6.37,
       "num_switches": 1,
       "switches": [
         {
@@ -23434,7 +23434,7 @@
       "index": 4014,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 6.0701875,
+      "duration": 6.07,
       "num_switches": 1,
       "switches": [
         {
@@ -23449,7 +23449,7 @@
       "index": 4017,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 8.9101875,
+      "duration": 8.91,
       "num_switches": 4,
       "switches": [
         {
@@ -23505,7 +23505,7 @@
       "index": 4030,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 6.5599375,
+      "duration": 6.56,
       "num_switches": 2,
       "switches": [
         {
@@ -23549,7 +23549,7 @@
       "index": 4034,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 3.0599375,
+      "duration": 3.06,
       "num_switches": 2,
       "switches": [
         {
@@ -23571,7 +23571,7 @@
       "index": 4043,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 1.8101875,
+      "duration": 1.81,
       "num_switches": 2,
       "switches": [
         {
@@ -23667,7 +23667,7 @@
       "index": 4110,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 4.4400625,
+      "duration": 4.44,
       "num_switches": 2,
       "switches": [
         {
@@ -23689,7 +23689,7 @@
       "index": 4114,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 1.3900625,
+      "duration": 1.39,
       "num_switches": 1,
       "switches": [
         {
@@ -23771,7 +23771,7 @@
       "index": 4140,
       "speaker_id": 16,
       "session_id": 2,
-      "duration": 9.3900625,
+      "duration": 9.39,
       "num_switches": 1,
       "switches": [
         {
@@ -23786,7 +23786,7 @@
       "index": 4159,
       "speaker_id": 15,
       "session_id": 2,
-      "duration": 5.27025,
+      "duration": 5.27,
       "num_switches": 1,
       "switches": [
         {
@@ -23801,7 +23801,7 @@
       "index": 4169,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 3.0831875,
+      "duration": 3.083,
       "num_switches": 1,
       "switches": [
         {
@@ -23846,7 +23846,7 @@
       "index": 4179,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 3.4051875,
+      "duration": 3.405,
       "num_switches": 1,
       "switches": [
         {
@@ -23861,7 +23861,7 @@
       "index": 4185,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 3.6871875,
+      "duration": 3.687,
       "num_switches": 2,
       "switches": [
         {
@@ -23883,7 +23883,7 @@
       "index": 4212,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 3.8101875,
+      "duration": 3.81,
       "num_switches": 2,
       "switches": [
         {
@@ -23920,7 +23920,7 @@
       "index": 4225,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 2.3901875,
+      "duration": 2.39,
       "num_switches": 1,
       "switches": [
         {
@@ -23935,7 +23935,7 @@
       "index": 4234,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 1.9901875,
+      "duration": 1.99,
       "num_switches": 2,
       "switches": [
         {
@@ -24002,7 +24002,7 @@
       "index": 4283,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 1.9501875,
+      "duration": 1.95,
       "num_switches": 2,
       "switches": [
         {
@@ -24024,7 +24024,7 @@
       "index": 4303,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 4.3101875,
+      "duration": 4.31,
       "num_switches": 1,
       "switches": [
         {
@@ -24054,7 +24054,7 @@
       "index": 4314,
       "speaker_id": 18,
       "session_id": 2,
-      "duration": 4.5701875,
+      "duration": 4.57,
       "num_switches": 1,
       "switches": [
         {
@@ -24133,7 +24133,7 @@
       "index": 4344,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 5.3101875,
+      "duration": 5.31,
       "num_switches": 2,
       "switches": [
         {
@@ -24286,7 +24286,7 @@
       "index": 4377,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 3.9301875,
+      "duration": 3.93,
       "num_switches": 1,
       "switches": [
         {
@@ -24335,7 +24335,7 @@
       "index": 4389,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 3.71025,
+      "duration": 3.71,
       "num_switches": 3,
       "switches": [
         {
@@ -24363,7 +24363,7 @@
       "index": 4390,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 5.11025,
+      "duration": 5.11,
       "num_switches": 2,
       "switches": [
         {
@@ -24407,7 +24407,7 @@
       "index": 4392,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 10.2301875,
+      "duration": 10.23,
       "num_switches": 2,
       "switches": [
         {
@@ -24500,7 +24500,7 @@
       "index": 4413,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 3.93025,
+      "duration": 3.93,
       "num_switches": 2,
       "switches": [
         {
@@ -24522,7 +24522,7 @@
       "index": 4414,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 1.0311875,
+      "duration": 1.031,
       "num_switches": 1,
       "switches": [
         {
@@ -24688,7 +24688,7 @@
       "index": 4448,
       "speaker_id": 19,
       "session_id": 2,
-      "duration": 8.5301875,
+      "duration": 8.53,
       "num_switches": 3,
       "switches": [
         {
@@ -24945,7 +24945,7 @@
       "index": 4604,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 10.2200625,
+      "duration": 10.22,
       "num_switches": 3,
       "switches": [
         {
@@ -24973,7 +24973,7 @@
       "index": 4608,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 10.9200625,
+      "duration": 10.92,
       "num_switches": 1,
       "switches": [
         {
@@ -25025,7 +25025,7 @@
       "index": 4613,
       "speaker_id": 2,
       "session_id": 2,
-      "duration": 6.3399375,
+      "duration": 6.34,
       "num_switches": 2,
       "switches": [
         {
@@ -25188,7 +25188,7 @@
       "index": 4661,
       "speaker_id": 24,
       "session_id": 2,
-      "duration": 4.3501875,
+      "duration": 4.35,
       "num_switches": 1,
       "switches": [
         {
@@ -25225,7 +25225,7 @@
       "index": 4706,
       "speaker_id": 24,
       "session_id": 2,
-      "duration": 2.6101875,
+      "duration": 2.61,
       "num_switches": 1,
       "switches": [
         {
@@ -25709,7 +25709,7 @@
       "index": 4908,
       "speaker_id": 26,
       "session_id": 2,
-      "duration": 3.3701875,
+      "duration": 3.37,
       "num_switches": 1,
       "switches": [
         {
@@ -25842,7 +25842,7 @@
       "index": 4931,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 7.1800625,
+      "duration": 7.18,
       "num_switches": 2,
       "switches": [
         {
@@ -25864,7 +25864,7 @@
       "index": 4938,
       "speaker_id": 9,
       "session_id": 2,
-      "duration": 3.6399375,
+      "duration": 3.64,
       "num_switches": 2,
       "switches": [
         {
@@ -27070,7 +27070,7 @@
       "index": 5045,
       "speaker_id": 26,
       "session_id": 2,
-      "duration": 5.45025,
+      "duration": 5.45,
       "num_switches": 2,
       "switches": [
         {
@@ -27092,7 +27092,7 @@
       "index": 5049,
       "speaker_id": 26,
       "session_id": 2,
-      "duration": 9.81025,
+      "duration": 9.81,
       "num_switches": 2,
       "switches": [
         {
@@ -27336,7 +27336,7 @@
       "index": 5102,
       "speaker_id": 4,
       "session_id": 2,
-      "duration": 1.6999375,
+      "duration": 1.7,
       "num_switches": 1,
       "switches": [
         {
@@ -27373,7 +27373,7 @@
       "index": 5107,
       "speaker_id": 4,
       "session_id": 2,
-      "duration": 5.4399375,
+      "duration": 5.44,
       "num_switches": 1,
       "switches": [
         {
@@ -27956,7 +27956,7 @@
       "index": 5196,
       "speaker_id": 4,
       "session_id": 2,
-      "duration": 1.7999375,
+      "duration": 1.8,
       "num_switches": 2,
       "switches": [
         {
@@ -28742,7 +28742,7 @@
       "index": 5281,
       "speaker_id": 4,
       "session_id": 2,
-      "duration": 9.5599375,
+      "duration": 9.56,
       "num_switches": 1,
       "switches": [
         {
@@ -28772,7 +28772,7 @@
       "index": 5291,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 3.4901875,
+      "duration": 3.49,
       "num_switches": 1,
       "switches": [
         {
@@ -28831,7 +28831,7 @@
       "index": 5305,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 4.9901875,
+      "duration": 4.99,
       "num_switches": 2,
       "switches": [
         {
@@ -28905,7 +28905,7 @@
       "index": 5311,
       "speaker_id": 6,
       "session_id": 2,
-      "duration": 11.9299375,
+      "duration": 11.93,
       "num_switches": 6,
       "switches": [
         {
@@ -29270,7 +29270,7 @@
       "index": 5338,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 5.5701875,
+      "duration": 5.57,
       "num_switches": 4,
       "switches": [
         {
@@ -29428,7 +29428,7 @@
       "index": 5353,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 9.1901875,
+      "duration": 9.19,
       "num_switches": 2,
       "switches": [
         {
@@ -29465,7 +29465,7 @@
       "index": 5365,
       "speaker_id": 6,
       "session_id": 2,
-      "duration": 7.4900625,
+      "duration": 7.49,
       "num_switches": 2,
       "switches": [
         {
@@ -29531,7 +29531,7 @@
       "index": 5385,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 1.1901875,
+      "duration": 1.19,
       "num_switches": 1,
       "switches": [
         {
@@ -29656,7 +29656,7 @@
       "index": 5400,
       "speaker_id": 5,
       "session_id": 2,
-      "duration": 3.9303125,
+      "duration": 3.93,
       "num_switches": 1,
       "switches": [
         {
@@ -29878,7 +29878,7 @@
       "index": 5434,
       "speaker_id": 8,
       "session_id": 2,
-      "duration": 10.0901875,
+      "duration": 10.09,
       "num_switches": 4,
       "switches": [
         {
@@ -29912,7 +29912,7 @@
       "index": 5439,
       "speaker_id": 8,
       "session_id": 2,
-      "duration": 10.4101875,
+      "duration": 10.41,
       "num_switches": 4,
       "switches": [
         {
@@ -29923,7 +29923,7 @@
         {
           "timestamp": 2.462,
           "direction": "en->zh",
-          "relative_position": 0.236
+          "relative_position": 0.237
         },
         {
           "timestamp": 6.166,
@@ -30108,7 +30108,7 @@
       "index": 5459,
       "speaker_id": 8,
       "session_id": 2,
-      "duration": 3.3101875,
+      "duration": 3.31,
       "num_switches": 1,
       "switches": [
         {
@@ -30182,7 +30182,7 @@
       "index": 5466,
       "speaker_id": 2,
       "session_id": 3,
-      "duration": 7.2199375,
+      "duration": 7.22,
       "num_switches": 1,
       "switches": [
         {
@@ -30212,7 +30212,7 @@
       "index": 5468,
       "speaker_id": 2,
       "session_id": 3,
-      "duration": 9.4200625,
+      "duration": 9.42,
       "num_switches": 1,
       "switches": [
         {
@@ -30404,7 +30404,7 @@
       "index": 5491,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 3.1901875,
+      "duration": 3.19,
       "num_switches": 2,
       "switches": [
         {
@@ -30561,7 +30561,7 @@
       "index": 5518,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 7.23725,
+      "duration": 7.237,
       "num_switches": 2,
       "switches": [
         {
@@ -30583,7 +30583,7 @@
       "index": 5521,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 4.2861875,
+      "duration": 4.286,
       "num_switches": 1,
       "switches": [
         {
@@ -30598,7 +30598,7 @@
       "index": 5522,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 11.0861875,
+      "duration": 11.086,
       "num_switches": 1,
       "switches": [
         {
@@ -30635,7 +30635,7 @@
       "index": 5525,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 1.5501875,
+      "duration": 1.55,
       "num_switches": 1,
       "switches": [
         {
@@ -30650,7 +30650,7 @@
       "index": 5526,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 14.5301875,
+      "duration": 14.53,
       "num_switches": 6,
       "switches": [
         {
@@ -30718,7 +30718,7 @@
       "index": 5530,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 11.0501875,
+      "duration": 11.05,
       "num_switches": 3,
       "switches": [
         {
@@ -30746,7 +30746,7 @@
       "index": 5534,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 6.0301875,
+      "duration": 6.03,
       "num_switches": 1,
       "switches": [
         {
@@ -30761,7 +30761,7 @@
       "index": 5536,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 8.3701875,
+      "duration": 8.37,
       "num_switches": 2,
       "switches": [
         {
@@ -30849,7 +30849,7 @@
       "index": 5551,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 4.1031875,
+      "duration": 4.103,
       "num_switches": 1,
       "switches": [
         {
@@ -30864,7 +30864,7 @@
       "index": 5552,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 3.9971875,
+      "duration": 3.997,
       "num_switches": 1,
       "switches": [
         {
@@ -31038,7 +31038,7 @@
       "index": 5585,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 6.9101875,
+      "duration": 6.91,
       "num_switches": 1,
       "switches": [
         {
@@ -31121,7 +31121,7 @@
       "index": 5602,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 6.7600625,
+      "duration": 6.76,
       "num_switches": 4,
       "switches": [
         {
@@ -31183,7 +31183,7 @@
       "index": 5606,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 3.4501875,
+      "duration": 3.45,
       "num_switches": 4,
       "switches": [
         {
@@ -31303,7 +31303,7 @@
       "index": 5609,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 5.7101875,
+      "duration": 5.71,
       "num_switches": 4,
       "switches": [
         {
@@ -31314,7 +31314,7 @@
         {
           "timestamp": 2.384,
           "direction": "en->zh",
-          "relative_position": 0.417
+          "relative_position": 0.418
         },
         {
           "timestamp": 4.989,
@@ -31592,7 +31592,7 @@
       "index": 5627,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 5.0101875,
+      "duration": 5.01,
       "num_switches": 1,
       "switches": [
         {
@@ -31622,7 +31622,7 @@
       "index": 5633,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 3.7701875,
+      "duration": 3.77,
       "num_switches": 1,
       "switches": [
         {
@@ -31711,7 +31711,7 @@
       "index": 5644,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 2.8701875,
+      "duration": 2.87,
       "num_switches": 1,
       "switches": [
         {
@@ -31726,7 +31726,7 @@
       "index": 5645,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 1.9501875,
+      "duration": 1.95,
       "num_switches": 1,
       "switches": [
         {
@@ -31787,7 +31787,7 @@
       "index": 5650,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 8.1501875,
+      "duration": 8.15,
       "num_switches": 1,
       "switches": [
         {
@@ -31802,7 +31802,7 @@
       "index": 5652,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 3.9501875,
+      "duration": 3.95,
       "num_switches": 2,
       "switches": [
         {
@@ -31852,7 +31852,7 @@
       "index": 5655,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 6.1101875,
+      "duration": 6.11,
       "num_switches": 1,
       "switches": [
         {
@@ -31867,7 +31867,7 @@
       "index": 5656,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 4.0101875,
+      "duration": 4.01,
       "num_switches": 1,
       "switches": [
         {
@@ -31904,7 +31904,7 @@
       "index": 5663,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 5.8399375,
+      "duration": 5.84,
       "num_switches": 4,
       "switches": [
         {
@@ -31966,7 +31966,7 @@
       "index": 5667,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 13.8399375,
+      "duration": 13.84,
       "num_switches": 6,
       "switches": [
         {
@@ -32046,7 +32046,7 @@
       "index": 5671,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 6.5501875,
+      "duration": 6.55,
       "num_switches": 2,
       "switches": [
         {
@@ -32169,7 +32169,7 @@
       "index": 5681,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 9.1701875,
+      "duration": 9.17,
       "num_switches": 8,
       "switches": [
         {
@@ -32331,7 +32331,7 @@
       "index": 5686,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 2.1101875,
+      "duration": 2.11,
       "num_switches": 4,
       "switches": [
         {
@@ -32365,7 +32365,7 @@
       "index": 5690,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 10.9611875,
+      "duration": 10.961,
       "num_switches": 5,
       "switches": [
         {
@@ -32439,7 +32439,7 @@
       "index": 5692,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 4.6599375,
+      "duration": 4.66,
       "num_switches": 2,
       "switches": [
         {
@@ -32631,7 +32631,7 @@
       "index": 5713,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 3.5501875,
+      "duration": 3.55,
       "num_switches": 2,
       "switches": [
         {
@@ -32675,7 +32675,7 @@
       "index": 5716,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 1.5701875,
+      "duration": 1.57,
       "num_switches": 1,
       "switches": [
         {
@@ -32690,7 +32690,7 @@
       "index": 5718,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 12.2101875,
+      "duration": 12.21,
       "num_switches": 3,
       "switches": [
         {
@@ -32816,7 +32816,7 @@
       "index": 5724,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 6.2701875,
+      "duration": 6.27,
       "num_switches": 2,
       "switches": [
         {
@@ -32896,7 +32896,7 @@
       "index": 5727,
       "speaker_id": 9,
       "session_id": 3,
-      "duration": 10.5800625,
+      "duration": 10.58,
       "num_switches": 10,
       "switches": [
         {
@@ -33085,7 +33085,7 @@
       "index": 5737,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 1.2501875,
+      "duration": 1.25,
       "num_switches": 1,
       "switches": [
         {
@@ -33100,7 +33100,7 @@
       "index": 5738,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 1.4701875,
+      "duration": 1.47,
       "num_switches": 2,
       "switches": [
         {
@@ -33178,7 +33178,7 @@
       "index": 5743,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 13.41025,
+      "duration": 13.41,
       "num_switches": 4,
       "switches": [
         {
@@ -33314,7 +33314,7 @@
       "index": 5749,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 5.7101875,
+      "duration": 5.71,
       "num_switches": 1,
       "switches": [
         {
@@ -33553,7 +33553,7 @@
       "index": 5776,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 1.7301875,
+      "duration": 1.73,
       "num_switches": 3,
       "switches": [
         {
@@ -33953,7 +33953,7 @@
       "index": 5810,
       "speaker_id": 10,
       "session_id": 3,
-      "duration": 9.9411875,
+      "duration": 9.941,
       "num_switches": 4,
       "switches": [
         {
@@ -34065,7 +34065,7 @@
       "index": 5819,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 8.87025,
+      "duration": 8.87,
       "num_switches": 2,
       "switches": [
         {
@@ -34244,7 +34244,7 @@
       "index": 5835,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 9.3501875,
+      "duration": 9.35,
       "num_switches": 4,
       "switches": [
         {
@@ -34278,7 +34278,7 @@
       "index": 5836,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 3.73025,
+      "duration": 3.73,
       "num_switches": 4,
       "switches": [
         {
@@ -34398,7 +34398,7 @@
       "index": 5841,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 10.3901875,
+      "duration": 10.39,
       "num_switches": 4,
       "switches": [
         {
@@ -34432,7 +34432,7 @@
       "index": 5847,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 2.2901875,
+      "duration": 2.29,
       "num_switches": 2,
       "switches": [
         {
@@ -34476,7 +34476,7 @@
       "index": 5852,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 9.2101875,
+      "duration": 9.21,
       "num_switches": 2,
       "switches": [
         {
@@ -34498,7 +34498,7 @@
       "index": 5856,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 3.3301875,
+      "duration": 3.33,
       "num_switches": 2,
       "switches": [
         {
@@ -34520,7 +34520,7 @@
       "index": 5858,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 4.2901875,
+      "duration": 4.29,
       "num_switches": 4,
       "switches": [
         {
@@ -35218,7 +35218,7 @@
       "index": 5903,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 1.2501875,
+      "duration": 1.25,
       "num_switches": 2,
       "switches": [
         {
@@ -35229,7 +35229,7 @@
         {
           "timestamp": 0.887,
           "direction": "en->zh",
-          "relative_position": 0.709
+          "relative_position": 0.71
         }
       ],
       "inter_switch_intervals": [
@@ -35336,7 +35336,7 @@
       "index": 5924,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 9.9101875,
+      "duration": 9.91,
       "num_switches": 5,
       "switches": [
         {
@@ -35376,7 +35376,7 @@
       "index": 5928,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 7.1701875,
+      "duration": 7.17,
       "num_switches": 6,
       "switches": [
         {
@@ -35387,7 +35387,7 @@
         {
           "timestamp": 4.406,
           "direction": "en->zh",
-          "relative_position": 0.614
+          "relative_position": 0.615
         },
         {
           "timestamp": 5.107,
@@ -35422,7 +35422,7 @@
       "index": 5929,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 3.7901875,
+      "duration": 3.79,
       "num_switches": 2,
       "switches": [
         {
@@ -35466,7 +35466,7 @@
       "index": 5936,
       "speaker_id": 11,
       "session_id": 3,
-      "duration": 2.15025,
+      "duration": 2.15,
       "num_switches": 2,
       "switches": [
         {
@@ -35547,7 +35547,7 @@
       "index": 5952,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 2.5501875,
+      "duration": 2.55,
       "num_switches": 1,
       "switches": [
         {
@@ -35779,7 +35779,7 @@
       "index": 6016,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 5.1101875,
+      "duration": 5.11,
       "num_switches": 4,
       "switches": [
         {
@@ -35800,7 +35800,7 @@
         {
           "timestamp": 3.968,
           "direction": "en->zh",
-          "relative_position": 0.776
+          "relative_position": 0.777
         }
       ],
       "inter_switch_intervals": [
@@ -35813,7 +35813,7 @@
       "index": 6020,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 2.0501875,
+      "duration": 2.05,
       "num_switches": 1,
       "switches": [
         {
@@ -35886,7 +35886,7 @@
       "index": 6042,
       "speaker_id": 13,
       "session_id": 3,
-      "duration": 7.8899375,
+      "duration": 7.89,
       "num_switches": 5,
       "switches": [
         {
@@ -35941,7 +35941,7 @@
       "index": 6056,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 7.8501875,
+      "duration": 7.85,
       "num_switches": 3,
       "switches": [
         {
@@ -35969,7 +35969,7 @@
       "index": 6058,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 3.79025,
+      "duration": 3.79,
       "num_switches": 1,
       "switches": [
         {
@@ -36251,7 +36251,7 @@
       "index": 6129,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 1.5701875,
+      "duration": 1.57,
       "num_switches": 1,
       "switches": [
         {
@@ -36266,7 +36266,7 @@
       "index": 6133,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 3.5101875,
+      "duration": 3.51,
       "num_switches": 2,
       "switches": [
         {
@@ -36370,7 +36370,7 @@
       "index": 6155,
       "speaker_id": 13,
       "session_id": 3,
-      "duration": 3.6799375,
+      "duration": 3.68,
       "num_switches": 3,
       "switches": [
         {
@@ -36686,7 +36686,7 @@
       "index": 6195,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 7.8901875,
+      "duration": 7.89,
       "num_switches": 4,
       "switches": [
         {
@@ -36872,7 +36872,7 @@
       "index": 6214,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 2.4901875,
+      "duration": 2.49,
       "num_switches": 1,
       "switches": [
         {
@@ -36887,7 +36887,7 @@
       "index": 6215,
       "speaker_id": 14,
       "session_id": 3,
-      "duration": 4.7701875,
+      "duration": 4.77,
       "num_switches": 1,
       "switches": [
         {
@@ -37104,7 +37104,7 @@
       "index": 6243,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 10.7399375,
+      "duration": 10.74,
       "num_switches": 1,
       "switches": [
         {
@@ -37119,7 +37119,7 @@
       "index": 6245,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 6.5701875,
+      "duration": 6.57,
       "num_switches": 1,
       "switches": [
         {
@@ -37134,7 +37134,7 @@
       "index": 6248,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 9.7271875,
+      "duration": 9.727,
       "num_switches": 4,
       "switches": [
         {
@@ -37168,7 +37168,7 @@
       "index": 6249,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 10.7301875,
+      "duration": 10.73,
       "num_switches": 3,
       "switches": [
         {
@@ -37230,7 +37230,7 @@
       "index": 6253,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 3.8701875,
+      "duration": 3.87,
       "num_switches": 1,
       "switches": [
         {
@@ -37260,7 +37260,7 @@
       "index": 6256,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 3.3351875,
+      "duration": 3.335,
       "num_switches": 1,
       "switches": [
         {
@@ -37315,7 +37315,7 @@
       "index": 6258,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 12.07025,
+      "duration": 12.07,
       "num_switches": 3,
       "switches": [
         {
@@ -37542,7 +37542,7 @@
       "index": 6287,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 1.99025,
+      "duration": 1.99,
       "num_switches": 1,
       "switches": [
         {
@@ -38200,7 +38200,7 @@
       "index": 6365,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 3.5399375,
+      "duration": 3.54,
       "num_switches": 2,
       "switches": [
         {
@@ -38281,7 +38281,7 @@
       "index": 6376,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 3.89025,
+      "duration": 3.89,
       "num_switches": 1,
       "switches": [
         {
@@ -38341,7 +38341,7 @@
       "index": 6384,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 1.7200625,
+      "duration": 1.72,
       "num_switches": 1,
       "switches": [
         {
@@ -38416,7 +38416,7 @@
       "index": 6394,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 5.0901875,
+      "duration": 5.09,
       "num_switches": 1,
       "switches": [
         {
@@ -38431,7 +38431,7 @@
       "index": 6395,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 8.4501875,
+      "duration": 8.45,
       "num_switches": 3,
       "switches": [
         {
@@ -38442,7 +38442,7 @@
         {
           "timestamp": 3.004,
           "direction": "en->zh",
-          "relative_position": 0.355
+          "relative_position": 0.356
         },
         {
           "timestamp": 4.365,
@@ -38523,7 +38523,7 @@
       "index": 6406,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 3.3641875,
+      "duration": 3.364,
       "num_switches": 1,
       "switches": [
         {
@@ -38538,7 +38538,7 @@
       "index": 6411,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 8.7530625,
+      "duration": 8.753,
       "num_switches": 2,
       "switches": [
         {
@@ -38560,7 +38560,7 @@
       "index": 6412,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 4.4199375,
+      "duration": 4.42,
       "num_switches": 2,
       "switches": [
         {
@@ -38597,7 +38597,7 @@
       "index": 6416,
       "speaker_id": 16,
       "session_id": 3,
-      "duration": 7.9139375,
+      "duration": 7.914,
       "num_switches": 3,
       "switches": [
         {
@@ -38769,7 +38769,7 @@
       "index": 6429,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 1.99725,
+      "duration": 1.997,
       "num_switches": 1,
       "switches": [
         {
@@ -38855,7 +38855,7 @@
       "index": 6433,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 9.0831875,
+      "duration": 9.083,
       "num_switches": 1,
       "switches": [
         {
@@ -38870,7 +38870,7 @@
       "index": 6435,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 9.4631875,
+      "duration": 9.463,
       "num_switches": 2,
       "switches": [
         {
@@ -38892,7 +38892,7 @@
       "index": 6436,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 2.1301875,
+      "duration": 2.13,
       "num_switches": 1,
       "switches": [
         {
@@ -38907,13 +38907,13 @@
       "index": 6437,
       "speaker_id": 15,
       "session_id": 3,
-      "duration": 2.47925,
+      "duration": 2.479,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 1.754,
           "direction": "en->zh",
-          "relative_position": 0.707
+          "relative_position": 0.708
         }
       ],
       "inter_switch_intervals": []
@@ -39015,7 +39015,7 @@
       "index": 6454,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 2.0301875,
+      "duration": 2.03,
       "num_switches": 2,
       "switches": [
         {
@@ -39111,7 +39111,7 @@
       "index": 6502,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 4.4901875,
+      "duration": 4.49,
       "num_switches": 2,
       "switches": [
         {
@@ -39199,7 +39199,7 @@
       "index": 6525,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 2.0301875,
+      "duration": 2.03,
       "num_switches": 2,
       "switches": [
         {
@@ -39273,7 +39273,7 @@
       "index": 6536,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 2.3671875,
+      "duration": 2.367,
       "num_switches": 1,
       "switches": [
         {
@@ -39288,7 +39288,7 @@
       "index": 6537,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 0.99725,
+      "duration": 0.997,
       "num_switches": 2,
       "switches": [
         {
@@ -39384,7 +39384,7 @@
       "index": 6561,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 4.5501875,
+      "duration": 4.55,
       "num_switches": 1,
       "switches": [
         {
@@ -39414,7 +39414,7 @@
       "index": 6613,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 1.83025,
+      "duration": 1.83,
       "num_switches": 1,
       "switches": [
         {
@@ -39429,7 +39429,7 @@
       "index": 6620,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 4.9501875,
+      "duration": 4.95,
       "num_switches": 1,
       "switches": [
         {
@@ -39444,7 +39444,7 @@
       "index": 6633,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 2.3101875,
+      "duration": 2.31,
       "num_switches": 1,
       "switches": [
         {
@@ -39511,7 +39511,7 @@
       "index": 6650,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 4.7301875,
+      "duration": 4.73,
       "num_switches": 4,
       "switches": [
         {
@@ -39560,7 +39560,7 @@
       "index": 6658,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 4.1101875,
+      "duration": 4.11,
       "num_switches": 3,
       "switches": [
         {
@@ -39588,7 +39588,7 @@
       "index": 6659,
       "speaker_id": 18,
       "session_id": 3,
-      "duration": 1.1301875,
+      "duration": 1.13,
       "num_switches": 1,
       "switches": [
         {
@@ -39625,7 +39625,7 @@
       "index": 6670,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 6.0101875,
+      "duration": 6.01,
       "num_switches": 1,
       "switches": [
         {
@@ -39777,7 +39777,7 @@
       "index": 6737,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 5.9101875,
+      "duration": 5.91,
       "num_switches": 2,
       "switches": [
         {
@@ -39901,7 +39901,7 @@
       "index": 6765,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 12.4501875,
+      "duration": 12.45,
       "num_switches": 8,
       "switches": [
         {
@@ -39959,7 +39959,7 @@
       "index": 6766,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 10.6501875,
+      "duration": 10.65,
       "num_switches": 1,
       "switches": [
         {
@@ -40036,7 +40036,7 @@
       "index": 6771,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 8.4501875,
+      "duration": 8.45,
       "num_switches": 1,
       "switches": [
         {
@@ -40051,7 +40051,7 @@
       "index": 6776,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 13.0701875,
+      "duration": 13.07,
       "num_switches": 7,
       "switches": [
         {
@@ -40103,7 +40103,7 @@
       "index": 6778,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 13.0301875,
+      "duration": 13.03,
       "num_switches": 2,
       "switches": [
         {
@@ -40155,7 +40155,7 @@
       "index": 6783,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 7.4701875,
+      "duration": 7.47,
       "num_switches": 2,
       "switches": [
         {
@@ -40199,7 +40199,7 @@
       "index": 6786,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 3.1901875,
+      "duration": 3.19,
       "num_switches": 3,
       "switches": [
         {
@@ -40227,7 +40227,7 @@
       "index": 6791,
       "speaker_id": 19,
       "session_id": 3,
-      "duration": 13.3701875,
+      "duration": 13.37,
       "num_switches": 2,
       "switches": [
         {
@@ -40323,7 +40323,7 @@
       "index": 6809,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 3.9799375,
+      "duration": 3.98,
       "num_switches": 1,
       "switches": [
         {
@@ -40338,7 +40338,7 @@
       "index": 6812,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 4.0399375,
+      "duration": 4.04,
       "num_switches": 2,
       "switches": [
         {
@@ -40791,7 +40791,7 @@
       "index": 6869,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 4.3000625,
+      "duration": 4.3,
       "num_switches": 2,
       "switches": [
         {
@@ -40865,7 +40865,7 @@
       "index": 6882,
       "speaker_id": 1,
       "session_id": 3,
-      "duration": 4.6000625,
+      "duration": 4.6,
       "num_switches": 2,
       "switches": [
         {
@@ -40983,7 +40983,7 @@
       "index": 6904,
       "speaker_id": 21,
       "session_id": 3,
-      "duration": 8.3501875,
+      "duration": 8.35,
       "num_switches": 3,
       "switches": [
         {
@@ -41216,7 +41216,7 @@
       "index": 6937,
       "speaker_id": 21,
       "session_id": 3,
-      "duration": 1.0701875,
+      "duration": 1.07,
       "num_switches": 1,
       "switches": [
         {
@@ -41825,7 +41825,7 @@
       "index": 7087,
       "speaker_id": 24,
       "session_id": 3,
-      "duration": 10.1701875,
+      "duration": 10.17,
       "num_switches": 1,
       "switches": [
         {
@@ -41885,7 +41885,7 @@
       "index": 7138,
       "speaker_id": 24,
       "session_id": 3,
-      "duration": 7.2701875,
+      "duration": 7.27,
       "num_switches": 2,
       "switches": [
         {
@@ -42054,7 +42054,7 @@
       "index": 7269,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 5.0399375,
+      "duration": 5.04,
       "num_switches": 2,
       "switches": [
         {
@@ -42747,13 +42747,13 @@
       "index": 7365,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 5.2000625,
+      "duration": 5.2,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 1.365,
           "direction": "zh->en",
-          "relative_position": 0.262
+          "relative_position": 0.263
         }
       ],
       "inter_switch_intervals": []
@@ -42814,7 +42814,7 @@
       "index": 7374,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 5.5800625,
+      "duration": 5.58,
       "num_switches": 1,
       "switches": [
         {
@@ -42829,7 +42829,7 @@
       "index": 7375,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 2.1599375,
+      "duration": 2.16,
       "num_switches": 1,
       "switches": [
         {
@@ -42881,7 +42881,7 @@
       "index": 7383,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 2.4400625,
+      "duration": 2.44,
       "num_switches": 1,
       "switches": [
         {
@@ -42896,7 +42896,7 @@
       "index": 7389,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 7.9600625,
+      "duration": 7.96,
       "num_switches": 2,
       "switches": [
         {
@@ -42976,7 +42976,7 @@
       "index": 7392,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 8.7400625,
+      "duration": 8.74,
       "num_switches": 1,
       "switches": [
         {
@@ -43031,7 +43031,7 @@
       "index": 7396,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 5.8200625,
+      "duration": 5.82,
       "num_switches": 2,
       "switches": [
         {
@@ -43053,7 +43053,7 @@
       "index": 7397,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 9.0199375,
+      "duration": 9.02,
       "num_switches": 4,
       "switches": [
         {
@@ -43102,7 +43102,7 @@
       "index": 7400,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 4.3200625,
+      "duration": 4.32,
       "num_switches": 1,
       "switches": [
         {
@@ -43117,7 +43117,7 @@
       "index": 7407,
       "speaker_id": 4,
       "session_id": 3,
-      "duration": 3.5999375,
+      "duration": 3.6,
       "num_switches": 2,
       "switches": [
         {
@@ -43873,7 +43873,7 @@
       "index": 7517,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 11.8501875,
+      "duration": 11.85,
       "num_switches": 8,
       "switches": [
         {
@@ -43931,7 +43931,7 @@
       "index": 7518,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 9.8301875,
+      "duration": 9.83,
       "num_switches": 6,
       "switches": [
         {
@@ -43957,7 +43957,7 @@
         {
           "timestamp": 9.029,
           "direction": "zh->en",
-          "relative_position": 0.918
+          "relative_position": 0.919
         },
         {
           "timestamp": 9.57,
@@ -43977,7 +43977,7 @@
       "index": 7519,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 9.0701875,
+      "duration": 9.07,
       "num_switches": 4,
       "switches": [
         {
@@ -44011,7 +44011,7 @@
       "index": 7520,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 4.35025,
+      "duration": 4.35,
       "num_switches": 1,
       "switches": [
         {
@@ -44026,7 +44026,7 @@
       "index": 7521,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 4.4701875,
+      "duration": 4.47,
       "num_switches": 2,
       "switches": [
         {
@@ -44112,7 +44112,7 @@
       "index": 7523,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 9.2301875,
+      "duration": 9.23,
       "num_switches": 2,
       "switches": [
         {
@@ -44134,7 +44134,7 @@
       "index": 7524,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 2.6101875,
+      "duration": 2.61,
       "num_switches": 1,
       "switches": [
         {
@@ -44201,7 +44201,7 @@
       "index": 7533,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 5.5901875,
+      "duration": 5.59,
       "num_switches": 2,
       "switches": [
         {
@@ -44327,7 +44327,7 @@
       "index": 7569,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 2.3101875,
+      "duration": 2.31,
       "num_switches": 1,
       "switches": [
         {
@@ -44342,7 +44342,7 @@
       "index": 7575,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 1.59025,
+      "duration": 1.59,
       "num_switches": 1,
       "switches": [
         {
@@ -44453,7 +44453,7 @@
       "index": 7608,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 5.9901875,
+      "duration": 5.99,
       "num_switches": 2,
       "switches": [
         {
@@ -44505,7 +44505,7 @@
       "index": 7622,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 2.2501875,
+      "duration": 2.25,
       "num_switches": 2,
       "switches": [
         {
@@ -44579,7 +44579,7 @@
       "index": 7653,
       "speaker_id": 6,
       "session_id": 3,
-      "duration": 1.2999375,
+      "duration": 1.3,
       "num_switches": 2,
       "switches": [
         {
@@ -44681,7 +44681,7 @@
       "index": 7665,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 1.9901875,
+      "duration": 1.99,
       "num_switches": 1,
       "switches": [
         {
@@ -44696,7 +44696,7 @@
       "index": 7667,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 4.3101875,
+      "duration": 4.31,
       "num_switches": 3,
       "switches": [
         {
@@ -44712,7 +44712,7 @@
         {
           "timestamp": 3.308,
           "direction": "zh->en",
-          "relative_position": 0.767
+          "relative_position": 0.768
         }
       ],
       "inter_switch_intervals": [
@@ -44724,7 +44724,7 @@
       "index": 7668,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 2.5501875,
+      "duration": 2.55,
       "num_switches": 1,
       "switches": [
         {
@@ -44782,7 +44782,7 @@
       "index": 7686,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 1.6501875,
+      "duration": 1.65,
       "num_switches": 3,
       "switches": [
         {
@@ -44810,7 +44810,7 @@
       "index": 7687,
       "speaker_id": 5,
       "session_id": 3,
-      "duration": 3.33025,
+      "duration": 3.33,
       "num_switches": 1,
       "switches": [
         {
@@ -45111,7 +45111,7 @@
       "index": 7778,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 3.4799375,
+      "duration": 3.48,
       "num_switches": 2,
       "switches": [
         {
@@ -45133,7 +45133,7 @@
       "index": 7781,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 4.3400625,
+      "duration": 4.34,
       "num_switches": 4,
       "switches": [
         {
@@ -45273,7 +45273,7 @@
       "index": 7793,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 1.4901875,
+      "duration": 1.49,
       "num_switches": 2,
       "switches": [
         {
@@ -45550,7 +45550,7 @@
       "index": 7815,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 6.0399375,
+      "duration": 6.04,
       "num_switches": 2,
       "switches": [
         {
@@ -46151,7 +46151,7 @@
       "index": 7911,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 1.5901875,
+      "duration": 1.59,
       "num_switches": 2,
       "switches": [
         {
@@ -46251,7 +46251,7 @@
       "index": 7915,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 3.0901875,
+      "duration": 3.09,
       "num_switches": 4,
       "switches": [
         {
@@ -46285,7 +46285,7 @@
       "index": 7918,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 3.91025,
+      "duration": 3.91,
       "num_switches": 4,
       "switches": [
         {
@@ -46390,7 +46390,7 @@
       "index": 7927,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 4.8101875,
+      "duration": 4.81,
       "num_switches": 1,
       "switches": [
         {
@@ -46602,7 +46602,7 @@
       "index": 7941,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 3.5301875,
+      "duration": 3.53,
       "num_switches": 1,
       "switches": [
         {
@@ -46617,7 +46617,7 @@
       "index": 7942,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 4.17025,
+      "duration": 4.17,
       "num_switches": 3,
       "switches": [
         {
@@ -46645,7 +46645,7 @@
       "index": 7943,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 4.4701875,
+      "duration": 4.47,
       "num_switches": 2,
       "switches": [
         {
@@ -46981,7 +46981,7 @@
       "index": 7966,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 5.41025,
+      "duration": 5.41,
       "num_switches": 4,
       "switches": [
         {
@@ -47015,7 +47015,7 @@
       "index": 7968,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 7.3701875,
+      "duration": 7.37,
       "num_switches": 5,
       "switches": [
         {
@@ -47055,7 +47055,7 @@
       "index": 7969,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 7.9301875,
+      "duration": 7.93,
       "num_switches": 3,
       "switches": [
         {
@@ -47083,7 +47083,7 @@
       "index": 7970,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 9.5301875,
+      "duration": 9.53,
       "num_switches": 5,
       "switches": [
         {
@@ -47229,7 +47229,7 @@
       "index": 7979,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 8.6901875,
+      "duration": 8.69,
       "num_switches": 2,
       "switches": [
         {
@@ -47251,7 +47251,7 @@
       "index": 7980,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 9.2501875,
+      "duration": 9.25,
       "num_switches": 2,
       "switches": [
         {
@@ -47445,7 +47445,7 @@
       "index": 8038,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 2.0501875,
+      "duration": 2.05,
       "num_switches": 2,
       "switches": [
         {
@@ -47512,7 +47512,7 @@
       "index": 8049,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 1.4101875,
+      "duration": 1.41,
       "num_switches": 1,
       "switches": [
         {
@@ -47660,13 +47660,13 @@
       "index": 8067,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 4.4301875,
+      "duration": 4.43,
       "num_switches": 2,
       "switches": [
         {
           "timestamp": 3.688,
           "direction": "zh->en",
-          "relative_position": 0.832
+          "relative_position": 0.833
         },
         {
           "timestamp": 4.17,
@@ -47852,7 +47852,7 @@
       "index": 8087,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 4.7899375,
+      "duration": 4.79,
       "num_switches": 1,
       "switches": [
         {
@@ -47867,7 +47867,7 @@
       "index": 8091,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 5.2200625,
+      "duration": 5.22,
       "num_switches": 4,
       "switches": [
         {
@@ -48095,7 +48095,7 @@
       "index": 8110,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 2.8599375,
+      "duration": 2.86,
       "num_switches": 2,
       "switches": [
         {
@@ -48117,7 +48117,7 @@
       "index": 8116,
       "speaker_id": 10,
       "session_id": 4,
-      "duration": 3.75025,
+      "duration": 3.75,
       "num_switches": 3,
       "switches": [
         {
@@ -48553,7 +48553,7 @@
       "index": 8161,
       "speaker_id": 11,
       "session_id": 4,
-      "duration": 5.4301875,
+      "duration": 5.43,
       "num_switches": 2,
       "switches": [
         {
@@ -48842,7 +48842,7 @@
       "index": 8225,
       "speaker_id": 11,
       "session_id": 4,
-      "duration": 5.25025,
+      "duration": 5.25,
       "num_switches": 4,
       "switches": [
         {
@@ -48910,7 +48910,7 @@
       "index": 8256,
       "speaker_id": 11,
       "session_id": 4,
-      "duration": 2.3061875,
+      "duration": 2.306,
       "num_switches": 1,
       "switches": [
         {
@@ -49026,7 +49026,7 @@
       "index": 8284,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 5.3600625,
+      "duration": 5.36,
       "num_switches": 2,
       "switches": [
         {
@@ -49260,7 +49260,7 @@
       "index": 8347,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 1.8300625,
+      "duration": 1.83,
       "num_switches": 1,
       "switches": [
         {
@@ -49290,7 +49290,7 @@
       "index": 8353,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 2.8899375,
+      "duration": 2.89,
       "num_switches": 1,
       "switches": [
         {
@@ -49335,7 +49335,7 @@
       "index": 8366,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 3.5800625,
+      "duration": 3.58,
       "num_switches": 2,
       "switches": [
         {
@@ -49884,7 +49884,7 @@
       "index": 8479,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 2.0599375,
+      "duration": 2.06,
       "num_switches": 1,
       "switches": [
         {
@@ -49949,7 +49949,7 @@
       "index": 8488,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 6.2999375,
+      "duration": 6.3,
       "num_switches": 2,
       "switches": [
         {
@@ -50054,7 +50054,7 @@
       "index": 8510,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 1.8200625,
+      "duration": 1.82,
       "num_switches": 1,
       "switches": [
         {
@@ -50106,7 +50106,7 @@
       "index": 8525,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 4.9600625,
+      "duration": 4.96,
       "num_switches": 1,
       "switches": [
         {
@@ -50121,7 +50121,7 @@
       "index": 8527,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 5.7200625,
+      "duration": 5.72,
       "num_switches": 1,
       "switches": [
         {
@@ -50240,7 +50240,7 @@
       "index": 8554,
       "speaker_id": 13,
       "session_id": 4,
-      "duration": 3.9299375,
+      "duration": 3.93,
       "num_switches": 3,
       "switches": [
         {
@@ -50685,7 +50685,7 @@
       "index": 8692,
       "speaker_id": 15,
       "session_id": 4,
-      "duration": 1.2901875,
+      "duration": 1.29,
       "num_switches": 1,
       "switches": [
         {
@@ -50846,7 +50846,7 @@
       "index": 8723,
       "speaker_id": 16,
       "session_id": 4,
-      "duration": 3.4199375,
+      "duration": 3.42,
       "num_switches": 1,
       "switches": [
         {
@@ -50998,7 +50998,7 @@
       "index": 8756,
       "speaker_id": 16,
       "session_id": 4,
-      "duration": 6.9400625,
+      "duration": 6.94,
       "num_switches": 2,
       "switches": [
         {
@@ -51020,7 +51020,7 @@
       "index": 8761,
       "speaker_id": 16,
       "session_id": 4,
-      "duration": 5.7300625,
+      "duration": 5.73,
       "num_switches": 1,
       "switches": [
         {
@@ -51072,7 +51072,7 @@
       "index": 8769,
       "speaker_id": 16,
       "session_id": 4,
-      "duration": 5.5399375,
+      "duration": 5.54,
       "num_switches": 2,
       "switches": [
         {
@@ -51208,7 +51208,7 @@
       "index": 8786,
       "speaker_id": 15,
       "session_id": 4,
-      "duration": 9.4701875,
+      "duration": 9.47,
       "num_switches": 1,
       "switches": [
         {
@@ -51223,7 +51223,7 @@
       "index": 8789,
       "speaker_id": 15,
       "session_id": 4,
-      "duration": 3.6501875,
+      "duration": 3.65,
       "num_switches": 2,
       "switches": [
         {
@@ -51327,7 +51327,7 @@
       "index": 8830,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 1.29025,
+      "duration": 1.29,
       "num_switches": 2,
       "switches": [
         {
@@ -51349,7 +51349,7 @@
       "index": 8833,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 3.2901875,
+      "duration": 3.29,
       "num_switches": 1,
       "switches": [
         {
@@ -51386,7 +51386,7 @@
       "index": 8842,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 1.45025,
+      "duration": 1.45,
       "num_switches": 2,
       "switches": [
         {
@@ -51436,13 +51436,13 @@
       "index": 8846,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 1.2301875,
+      "duration": 1.23,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 1.008,
           "direction": "en->zh",
-          "relative_position": 0.819
+          "relative_position": 0.82
         }
       ],
       "inter_switch_intervals": []
@@ -51473,7 +51473,7 @@
       "index": 8848,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 3.2301875,
+      "duration": 3.23,
       "num_switches": 2,
       "switches": [
         {
@@ -51555,7 +51555,7 @@
       "index": 8876,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 5.5901875,
+      "duration": 5.59,
       "num_switches": 5,
       "switches": [
         {
@@ -51654,7 +51654,7 @@
       "index": 8882,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 3.6101875,
+      "duration": 3.61,
       "num_switches": 2,
       "switches": [
         {
@@ -51676,7 +51676,7 @@
       "index": 8885,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 3.7901875,
+      "duration": 3.79,
       "num_switches": 2,
       "switches": [
         {
@@ -51865,7 +51865,7 @@
       "index": 8916,
       "speaker_id": 18,
       "session_id": 4,
-      "duration": 1.1701875,
+      "duration": 1.17,
       "num_switches": 1,
       "switches": [
         {
@@ -52155,7 +52155,7 @@
       "index": 8964,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 4.5501875,
+      "duration": 4.55,
       "num_switches": 4,
       "switches": [
         {
@@ -52211,7 +52211,7 @@
       "index": 8973,
       "speaker_id": 1,
       "session_id": 4,
-      "duration": 4.8200625,
+      "duration": 4.82,
       "num_switches": 1,
       "switches": [
         {
@@ -52256,7 +52256,7 @@
       "index": 8987,
       "speaker_id": 1,
       "session_id": 4,
-      "duration": 4.4000625,
+      "duration": 4.4,
       "num_switches": 1,
       "switches": [
         {
@@ -52271,7 +52271,7 @@
       "index": 8988,
       "speaker_id": 1,
       "session_id": 4,
-      "duration": 3.7199375,
+      "duration": 3.72,
       "num_switches": 1,
       "switches": [
         {
@@ -52316,7 +52316,7 @@
       "index": 9001,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 8.93025,
+      "duration": 8.93,
       "num_switches": 1,
       "switches": [
         {
@@ -52521,7 +52521,7 @@
       "index": 9048,
       "speaker_id": 1,
       "session_id": 4,
-      "duration": 4.1399375,
+      "duration": 4.14,
       "num_switches": 1,
       "switches": [
         {
@@ -52558,7 +52558,7 @@
       "index": 9063,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 6.0501875,
+      "duration": 6.05,
       "num_switches": 2,
       "switches": [
         {
@@ -52710,7 +52710,7 @@
       "index": 9083,
       "speaker_id": 1,
       "session_id": 4,
-      "duration": 2.1999375,
+      "duration": 2.2,
       "num_switches": 3,
       "switches": [
         {
@@ -52921,7 +52921,7 @@
       "index": 9126,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 4.21025,
+      "duration": 4.21,
       "num_switches": 2,
       "switches": [
         {
@@ -52932,7 +52932,7 @@
         {
           "timestamp": 1.804,
           "direction": "en->zh",
-          "relative_position": 0.428
+          "relative_position": 0.429
         }
       ],
       "inter_switch_intervals": [
@@ -53080,7 +53080,7 @@
       "index": 9160,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 4.8301875,
+      "duration": 4.83,
       "num_switches": 2,
       "switches": [
         {
@@ -53102,7 +53102,7 @@
       "index": 9162,
       "speaker_id": 21,
       "session_id": 4,
-      "duration": 4.35025,
+      "duration": 4.35,
       "num_switches": 1,
       "switches": [
         {
@@ -53266,7 +53266,7 @@
       "index": 9250,
       "speaker_id": 2,
       "session_id": 4,
-      "duration": 5.1100625,
+      "duration": 5.11,
       "num_switches": 1,
       "switches": [
         {
@@ -53281,7 +53281,7 @@
       "index": 9257,
       "speaker_id": 2,
       "session_id": 4,
-      "duration": 1.8399375,
+      "duration": 1.84,
       "num_switches": 1,
       "switches": [
         {
@@ -53453,7 +53453,7 @@
       "index": 9321,
       "speaker_id": 2,
       "session_id": 4,
-      "duration": 1.5399375,
+      "duration": 1.54,
       "num_switches": 1,
       "switches": [
         {
@@ -54366,7 +54366,7 @@
       "index": 9558,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 8.8399375,
+      "duration": 8.84,
       "num_switches": 11,
       "switches": [
         {
@@ -54609,7 +54609,7 @@
       "index": 9573,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 4.4301875,
+      "duration": 4.43,
       "num_switches": 1,
       "switches": [
         {
@@ -54924,7 +54924,7 @@
       "index": 9608,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 11.19025,
+      "duration": 11.19,
       "num_switches": 6,
       "switches": [
         {
@@ -54970,7 +54970,7 @@
       "index": 9609,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 4.15025,
+      "duration": 4.15,
       "num_switches": 2,
       "switches": [
         {
@@ -55029,7 +55029,7 @@
       "index": 9613,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 2.3501875,
+      "duration": 2.35,
       "num_switches": 1,
       "switches": [
         {
@@ -55149,7 +55149,7 @@
       "index": 9628,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 10.0599375,
+      "duration": 10.06,
       "num_switches": 8,
       "switches": [
         {
@@ -55229,7 +55229,7 @@
       "index": 9630,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 7.8200625,
+      "duration": 7.82,
       "num_switches": 2,
       "switches": [
         {
@@ -55331,7 +55331,7 @@
       "index": 9633,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 9.0399375,
+      "duration": 9.04,
       "num_switches": 2,
       "switches": [
         {
@@ -55375,7 +55375,7 @@
       "index": 9636,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 7.3999375,
+      "duration": 7.4,
       "num_switches": 8,
       "switches": [
         {
@@ -55455,7 +55455,7 @@
       "index": 9642,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 6.0599375,
+      "duration": 6.06,
       "num_switches": 8,
       "switches": [
         {
@@ -55550,7 +55550,7 @@
       "index": 9651,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 4.6811875,
+      "duration": 4.681,
       "num_switches": 2,
       "switches": [
         {
@@ -55664,7 +55664,7 @@
       "index": 9669,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 6.15225,
+      "duration": 6.152,
       "num_switches": 1,
       "switches": [
         {
@@ -55731,7 +55731,7 @@
       "index": 9690,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 5.7901875,
+      "duration": 5.79,
       "num_switches": 1,
       "switches": [
         {
@@ -55948,7 +55948,7 @@
       "index": 9707,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 4.6399375,
+      "duration": 4.64,
       "num_switches": 2,
       "switches": [
         {
@@ -55998,7 +55998,7 @@
       "index": 9711,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 7.9199375,
+      "duration": 7.92,
       "num_switches": 6,
       "switches": [
         {
@@ -56200,7 +56200,7 @@
       "index": 9718,
       "speaker_id": 9,
       "session_id": 4,
-      "duration": 1.8399375,
+      "duration": 1.84,
       "num_switches": 3,
       "switches": [
         {
@@ -56494,7 +56494,7 @@
       "index": 9733,
       "speaker_id": 26,
       "session_id": 4,
-      "duration": 2.89025,
+      "duration": 2.89,
       "num_switches": 1,
       "switches": [
         {
@@ -56573,7 +56573,7 @@
       "index": 9768,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 1.8101875,
+      "duration": 1.81,
       "num_switches": 1,
       "switches": [
         {
@@ -56632,7 +56632,7 @@
       "index": 9777,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 4.1901875,
+      "duration": 4.19,
       "num_switches": 2,
       "switches": [
         {
@@ -56713,7 +56713,7 @@
       "index": 9789,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 3.3391875,
+      "duration": 3.339,
       "num_switches": 1,
       "switches": [
         {
@@ -56801,7 +56801,7 @@
       "index": 9805,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 10.3301875,
+      "duration": 10.33,
       "num_switches": 2,
       "switches": [
         {
@@ -56888,7 +56888,7 @@
       "index": 9814,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 3.6901875,
+      "duration": 3.69,
       "num_switches": 2,
       "switches": [
         {
@@ -56910,7 +56910,7 @@
       "index": 9815,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 9.07025,
+      "duration": 9.07,
       "num_switches": 2,
       "switches": [
         {
@@ -56962,7 +56962,7 @@
       "index": 9821,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 2.3701875,
+      "duration": 2.37,
       "num_switches": 1,
       "switches": [
         {
@@ -57027,7 +57027,7 @@
       "index": 9835,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 5.9701875,
+      "duration": 5.97,
       "num_switches": 2,
       "switches": [
         {
@@ -57152,7 +57152,7 @@
       "index": 9855,
       "speaker_id": 8,
       "session_id": 4,
-      "duration": 6.1901875,
+      "duration": 6.19,
       "num_switches": 4,
       "switches": [
         {
@@ -57334,7 +57334,7 @@
       "index": 66,
       "speaker_id": 17,
       "session_id": 1,
-      "duration": 1.5899375,
+      "duration": 1.59,
       "num_switches": 1,
       "switches": [
         {
@@ -57394,7 +57394,7 @@
       "index": 131,
       "speaker_id": 17,
       "session_id": 1,
-      "duration": 1.6799375,
+      "duration": 1.68,
       "num_switches": 1,
       "switches": [
         {
@@ -57843,7 +57843,7 @@
       "index": 229,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 3.9901875,
+      "duration": 3.99,
       "num_switches": 3,
       "switches": [
         {
@@ -57993,7 +57993,7 @@
       "index": 243,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 3.7301875,
+      "duration": 3.73,
       "num_switches": 2,
       "switches": [
         {
@@ -58096,7 +58096,7 @@
       "index": 253,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 1.9901875,
+      "duration": 1.99,
       "num_switches": 1,
       "switches": [
         {
@@ -58396,7 +58396,7 @@
       "index": 287,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 1.7101875,
+      "duration": 1.71,
       "num_switches": 1,
       "switches": [
         {
@@ -58411,7 +58411,7 @@
       "index": 291,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 1.0901875,
+      "duration": 1.09,
       "num_switches": 1,
       "switches": [
         {
@@ -58469,7 +58469,7 @@
       "index": 297,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 3.1701875,
+      "duration": 3.17,
       "num_switches": 1,
       "switches": [
         {
@@ -58534,7 +58534,7 @@
       "index": 305,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 1.89025,
+      "duration": 1.89,
       "num_switches": 2,
       "switches": [
         {
@@ -58686,7 +58686,7 @@
       "index": 325,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 2.6101875,
+      "duration": 2.61,
       "num_switches": 1,
       "switches": [
         {
@@ -58857,7 +58857,7 @@
       "index": 342,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 5.4101875,
+      "duration": 5.41,
       "num_switches": 1,
       "switches": [
         {
@@ -59255,7 +59255,7 @@
       "index": 369,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 7.2901875,
+      "duration": 7.29,
       "num_switches": 3,
       "switches": [
         {
@@ -59502,7 +59502,7 @@
       "index": 394,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 3.8411875,
+      "duration": 3.841,
       "num_switches": 3,
       "switches": [
         {
@@ -59564,7 +59564,7 @@
       "index": 397,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 1.1101875,
+      "duration": 1.11,
       "num_switches": 2,
       "switches": [
         {
@@ -59863,7 +59863,7 @@
       "index": 411,
       "speaker_id": 3,
       "session_id": 1,
-      "duration": 3.6701875,
+      "duration": 3.67,
       "num_switches": 3,
       "switches": [
         {
@@ -60361,7 +60361,7 @@
       "index": 485,
       "speaker_id": 17,
       "session_id": 2,
-      "duration": 2.9399375,
+      "duration": 2.94,
       "num_switches": 2,
       "switches": [
         {
@@ -60383,7 +60383,7 @@
       "index": 489,
       "speaker_id": 17,
       "session_id": 2,
-      "duration": 2.6399375,
+      "duration": 2.64,
       "num_switches": 2,
       "switches": [
         {
@@ -60427,7 +60427,7 @@
       "index": 503,
       "speaker_id": 17,
       "session_id": 2,
-      "duration": 0.5199375,
+      "duration": 0.52,
       "num_switches": 1,
       "switches": [
         {
@@ -60590,7 +60590,7 @@
       "index": 620,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 4.9501875,
+      "duration": 4.95,
       "num_switches": 2,
       "switches": [
         {
@@ -60612,7 +60612,7 @@
       "index": 623,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 2.7301875,
+      "duration": 2.73,
       "num_switches": 3,
       "switches": [
         {
@@ -60677,7 +60677,7 @@
       "index": 632,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 2.0701875,
+      "duration": 2.07,
       "num_switches": 2,
       "switches": [
         {
@@ -60699,7 +60699,7 @@
       "index": 634,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 6.7101875,
+      "duration": 6.71,
       "num_switches": 6,
       "switches": [
         {
@@ -60745,7 +60745,7 @@
       "index": 636,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 2.3101875,
+      "duration": 2.31,
       "num_switches": 2,
       "switches": [
         {
@@ -60797,7 +60797,7 @@
       "index": 644,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 5.4901875,
+      "duration": 5.49,
       "num_switches": 3,
       "switches": [
         {
@@ -60862,7 +60862,7 @@
       "index": 649,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 1.2701875,
+      "duration": 1.27,
       "num_switches": 1,
       "switches": [
         {
@@ -61203,7 +61203,7 @@
       "index": 695,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 7.3901875,
+      "duration": 7.39,
       "num_switches": 2,
       "switches": [
         {
@@ -61247,7 +61247,7 @@
       "index": 697,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 1.3301875,
+      "duration": 1.33,
       "num_switches": 1,
       "switches": [
         {
@@ -61284,7 +61284,7 @@
       "index": 699,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 5.3301875,
+      "duration": 5.33,
       "num_switches": 1,
       "switches": [
         {
@@ -61329,7 +61329,7 @@
       "index": 706,
       "speaker_id": 3,
       "session_id": 2,
-      "duration": 2.8901875,
+      "duration": 2.89,
       "num_switches": 1,
       "switches": [
         {
@@ -61542,7 +61542,7 @@
       "index": 740,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 5.5300625,
+      "duration": 5.53,
       "num_switches": 4,
       "switches": [
         {
@@ -61706,7 +61706,7 @@
       "index": 799,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 3.7699375,
+      "duration": 3.77,
       "num_switches": 1,
       "switches": [
         {
@@ -61758,13 +61758,13 @@
       "index": 806,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 1.8399375,
+      "duration": 1.84,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 1.173,
           "direction": "zh->en",
-          "relative_position": 0.638
+          "relative_position": 0.637
         }
       ],
       "inter_switch_intervals": []
@@ -61817,7 +61817,7 @@
       "index": 837,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 2.8929375,
+      "duration": 2.893,
       "num_switches": 2,
       "switches": [
         {
@@ -62023,7 +62023,7 @@
       "index": 917,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 3.9199375,
+      "duration": 3.92,
       "num_switches": 4,
       "switches": [
         {
@@ -62302,7 +62302,7 @@
       "index": 947,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 6.7999375,
+      "duration": 6.8,
       "num_switches": 2,
       "switches": [
         {
@@ -62460,7 +62460,7 @@
       "index": 962,
       "speaker_id": 17,
       "session_id": 3,
-      "duration": 4.5799375,
+      "duration": 4.58,
       "num_switches": 2,
       "switches": [
         {
@@ -62755,7 +62755,7 @@
       "index": 986,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.9901875,
+      "duration": 3.99,
       "num_switches": 3,
       "switches": [
         {
@@ -62783,13 +62783,13 @@
       "index": 989,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 2.2301875,
+      "duration": 2.23,
       "num_switches": 1,
       "switches": [
         {
           "timestamp": 1.105,
           "direction": "zh->en",
-          "relative_position": 0.495
+          "relative_position": 0.496
         }
       ],
       "inter_switch_intervals": []
@@ -62887,7 +62887,7 @@
       "index": 1002,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.9301875,
+      "duration": 3.93,
       "num_switches": 2,
       "switches": [
         {
@@ -62909,7 +62909,7 @@
       "index": 1003,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.37025,
+      "duration": 3.37,
       "num_switches": 1,
       "switches": [
         {
@@ -63042,7 +63042,7 @@
       "index": 1014,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.4701875,
+      "duration": 3.47,
       "num_switches": 2,
       "switches": [
         {
@@ -63191,7 +63191,7 @@
       "index": 1028,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.6301875,
+      "duration": 3.63,
       "num_switches": 1,
       "switches": [
         {
@@ -63240,7 +63240,7 @@
       "index": 1030,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 5.6701875,
+      "duration": 5.67,
       "num_switches": 2,
       "switches": [
         {
@@ -63262,7 +63262,7 @@
       "index": 1031,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 3.8301875,
+      "duration": 3.83,
       "num_switches": 3,
       "switches": [
         {
@@ -63290,7 +63290,7 @@
       "index": 1032,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 4.8301875,
+      "duration": 4.83,
       "num_switches": 5,
       "switches": [
         {
@@ -63572,7 +63572,7 @@
       "index": 1039,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 9.5701875,
+      "duration": 9.57,
       "num_switches": 4,
       "switches": [
         {
@@ -63733,7 +63733,7 @@
       "index": 1048,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 6.5101875,
+      "duration": 6.51,
       "num_switches": 2,
       "switches": [
         {
@@ -63755,7 +63755,7 @@
       "index": 1049,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 8.77025,
+      "duration": 8.77,
       "num_switches": 1,
       "switches": [
         {
@@ -64070,7 +64070,7 @@
       "index": 1079,
       "speaker_id": 3,
       "session_id": 3,
-      "duration": 1.0901875,
+      "duration": 1.09,
       "num_switches": 1,
       "switches": [
         {
@@ -64159,7 +64159,7 @@
       "index": 1094,
       "speaker_id": 17,
       "session_id": 4,
-      "duration": 4.8599375,
+      "duration": 4.86,
       "num_switches": 1,
       "switches": [
         {
@@ -64761,7 +64761,7 @@
       "index": 1166,
       "speaker_id": 17,
       "session_id": 4,
-      "duration": 1.2599375,
+      "duration": 1.26,
       "num_switches": 1,
       "switches": [
         {
@@ -64820,7 +64820,7 @@
       "index": 1185,
       "speaker_id": 17,
       "session_id": 4,
-      "duration": 3.5099375,
+      "duration": 3.51,
       "num_switches": 2,
       "switches": [
         {
@@ -65728,7 +65728,7 @@
       "index": 37,
       "speaker_id": 20,
       "session_id": 4,
-      "duration": 5.5200625,
+      "duration": 5.52,
       "num_switches": 5,
       "switches": [
         {
@@ -65873,7 +65873,7 @@
       "index": 67,
       "speaker_id": 20,
       "session_id": 4,
-      "duration": 2.9400625,
+      "duration": 2.94,
       "num_switches": 2,
       "switches": [
         {
@@ -65895,7 +65895,7 @@
       "index": 68,
       "speaker_id": 20,
       "session_id": 4,
-      "duration": 6.4199375,
+      "duration": 6.42,
       "num_switches": 4,
       "switches": [
         {
@@ -65929,7 +65929,7 @@
       "index": 78,
       "speaker_id": 20,
       "session_id": 4,
-      "duration": 2.5399375,
+      "duration": 2.54,
       "num_switches": 2,
       "switches": [
         {
@@ -66062,7 +66062,7 @@
       "index": 181,
       "speaker_id": 12,
       "session_id": 1,
-      "duration": 1.5599375,
+      "duration": 1.56,
       "num_switches": 1,
       "switches": [
         {
@@ -66120,7 +66120,7 @@
       "index": 251,
       "speaker_id": 20,
       "session_id": 1,
-      "duration": 8.9700625,
+      "duration": 8.97,
       "num_switches": 2,
       "switches": [
         {
@@ -66194,7 +66194,7 @@
       "index": 293,
       "speaker_id": 20,
       "session_id": 1,
-      "duration": 2.4399375,
+      "duration": 2.44,
       "num_switches": 1,
       "switches": [
         {
@@ -66239,7 +66239,7 @@
       "index": 300,
       "speaker_id": 20,
       "session_id": 1,
-      "duration": 2.3199375,
+      "duration": 2.32,
       "num_switches": 1,
       "switches": [
         {
@@ -66269,7 +66269,7 @@
       "index": 310,
       "speaker_id": 20,
       "session_id": 1,
-      "duration": 4.1999375,
+      "duration": 4.2,
       "num_switches": 1,
       "switches": [
         {
@@ -66299,7 +66299,7 @@
       "index": 315,
       "speaker_id": 20,
       "session_id": 1,
-      "duration": 3.3600625,
+      "duration": 3.36,
       "num_switches": 1,
       "switches": [
         {
@@ -66475,7 +66475,7 @@
       "index": 395,
       "speaker_id": 7,
       "session_id": 1,
-      "duration": 4.7899375,
+      "duration": 4.79,
       "num_switches": 1,
       "switches": [
         {
@@ -66959,7 +66959,7 @@
       "index": 470,
       "speaker_id": 12,
       "session_id": 2,
-      "duration": 6.8399375,
+      "duration": 6.84,
       "num_switches": 3,
       "switches": [
         {
@@ -67017,7 +67017,7 @@
       "index": 481,
       "speaker_id": 12,
       "session_id": 2,
-      "duration": 2.2799375,
+      "duration": 2.28,
       "num_switches": 3,
       "switches": [
         {
@@ -67393,7 +67393,7 @@
       "index": 567,
       "speaker_id": 12,
       "session_id": 2,
-      "duration": 3.5599375,
+      "duration": 3.56,
       "num_switches": 2,
       "switches": [
         {
@@ -67459,7 +67459,7 @@
       "index": 575,
       "speaker_id": 20,
       "session_id": 2,
-      "duration": 8.7699375,
+      "duration": 8.77,
       "num_switches": 3,
       "switches": [
         {
@@ -67717,7 +67717,7 @@
       "index": 660,
       "speaker_id": 7,
       "session_id": 2,
-      "duration": 4.7900625,
+      "duration": 4.79,
       "num_switches": 1,
       "switches": [
         {
@@ -68053,7 +68053,7 @@
       "index": 701,
       "speaker_id": 12,
       "session_id": 3,
-      "duration": 4.0400625,
+      "duration": 4.04,
       "num_switches": 1,
       "switches": [
         {
@@ -68133,7 +68133,7 @@
       "index": 748,
       "speaker_id": 12,
       "session_id": 3,
-      "duration": 1.3999375,
+      "duration": 1.4,
       "num_switches": 1,
       "switches": [
         {
@@ -68213,7 +68213,7 @@
       "index": 777,
       "speaker_id": 12,
       "session_id": 3,
-      "duration": 1.8899375,
+      "duration": 1.89,
       "num_switches": 1,
       "switches": [
         {
@@ -68243,7 +68243,7 @@
       "index": 796,
       "speaker_id": 12,
       "session_id": 3,
-      "duration": 3.6499375,
+      "duration": 3.65,
       "num_switches": 2,
       "switches": [
         {
@@ -68430,7 +68430,7 @@
       "index": 837,
       "speaker_id": 20,
       "session_id": 3,
-      "duration": 3.7799375,
+      "duration": 3.78,
       "num_switches": 1,
       "switches": [
         {
@@ -68626,7 +68626,7 @@
       "index": 906,
       "speaker_id": 7,
       "session_id": 3,
-      "duration": 2.7400625,
+      "duration": 2.74,
       "num_switches": 2,
       "switches": [
         {
@@ -68919,7 +68919,7 @@
       "index": 983,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 3.9101875,
+      "duration": 3.91,
       "num_switches": 2,
       "switches": [
         {
@@ -68930,7 +68930,7 @@
         {
           "timestamp": 3.83,
           "direction": "en->zh",
-          "relative_position": 0.979
+          "relative_position": 0.98
         }
       ],
       "inter_switch_intervals": [
@@ -68978,7 +68978,7 @@
       "index": 996,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 2.6701875,
+      "duration": 2.67,
       "num_switches": 2,
       "switches": [
         {
@@ -69262,7 +69262,7 @@
       "index": 1095,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 4.6101875,
+      "duration": 4.61,
       "num_switches": 1,
       "switches": [
         {
@@ -69277,7 +69277,7 @@
       "index": 1096,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 4.1901875,
+      "duration": 4.19,
       "num_switches": 1,
       "switches": [
         {
@@ -69314,7 +69314,7 @@
       "index": 1110,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 2.4501875,
+      "duration": 2.45,
       "num_switches": 1,
       "switches": [
         {
@@ -69372,7 +69372,7 @@
       "index": 1127,
       "speaker_id": 12,
       "session_id": 4,
-      "duration": 5.7101875,
+      "duration": 5.71,
       "num_switches": 2,
       "switches": [
         {
